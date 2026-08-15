@@ -1,0 +1,39 @@
+# Secrets and local environment configuration
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+.venv-py314-backup/
+venv/
+env/
+
+# Python caches and build output
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+build/
+dist/
+
+# Jupyter runtime files
+.ipynb_checkpoints/
+
+# Chainlit and local temporary state
+.chainlit/
+.tmp/
+
+# Local database exports and backups
+data/*.db
+data/*.db-*
+data/*.sqlite
+data/*.sqlite3
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
