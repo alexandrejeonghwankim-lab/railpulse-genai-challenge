@@ -1,0 +1,2600 @@
+table_name,field_name,record_id,record_sub_id,field_value,language,translation
+stops,stop_name,"","",Beverlo,de,Beverlo
+stops,stop_name,"","",Messancy,de,Messancy
+stops,stop_name,"","",Mérode,de,Merode / Mérode
+stops,stop_name,"","",Frankfurt Flugh (DE),de,Frankfurt Flugh (DE)
+stops,stop_name,"","",Merchtem,de,Merchtem
+stops,stop_name,"","",Wezemaal,de,Wezemaal
+stops,stop_name,"","",Melreux-Hotton,de,Melreux-Hotton
+stops,stop_name,"","",Tielt,de,Tielt
+stops,stop_name,"","",Melle,de,Melle
+stops,stop_name,"","",Meiser,de,Meiser
+stops,stop_name,"","",Geel,de,Geel
+stops,stop_name,"","",Wevelgem,de,Wevelgem
+stops,stop_name,"","",Marloie,de,Marloie
+stops,stop_name,"","",Gendron-Celles,de,Gendron-Celles
+stops,stop_name,"","",Thuin,de,Thuin
+stops,stop_name,"","",Mariembourg,de,Mariembourg
+stops,stop_name,"","",Genk,de,Genk
+stops,stop_name,"","",Blandain-Frontière,de,Blandain-Frontière
+stops,stop_name,"","",Maria-Aalter,de,Maria-Aalter
+stops,stop_name,"","",Genly,de,Genly
+stops,stop_name,"","",Anvers-Sud,de,Antwerpen-Zuid / Anvers-Sud
+stops,stop_name,"","",Marchienne-Zone,de,Marchienne-Zone
+stops,stop_name,"","",Gentbrugge,de,Gentbrugge
+stops,stop_name,"","",Thieu,de,Thieu
+stops,stop_name,"","",Marchienne-au-Pont,de,Marchienne-au-Pont
+stops,stop_name,"","",Genval,de,Genval
+stops,stop_name,"","",Blankenberge,de,Blankenberge
+stops,stop_name,"","",Marche-lez-Ecaussinnes,de,Marche-lez-Ecaussinnes
+stops,stop_name,"","",Germoir,de,Mouterij / Germoir
+stops,stop_name,"","",Zeebrugge-Strand,de,Zeebrugge-Strand
+stops,stop_name,"","",Marche-les-Dames,de,Marche-les-Dames
+stops,stop_name,"","",Ghlin,de,Ghlin
+stops,stop_name,"","",Theux,de,Theux
+stops,stop_name,"","",Marche-en-Famenne,de,Marche-en-Famenne
+stops,stop_name,"","",Glons,de,Glaaien / Glons
+stops,stop_name,"","",Blanmont,de,Blanmont
+stops,stop_name,"","",Marbehan,de,Marbehan
+stops,stop_name,"","",Godarville,de,Godarville
+stops,stop_name,"","",Wetteren,de,Wetteren
+stops,stop_name,"","",Manage,de,Manage
+stops,stop_name,"","",Godinne,de,Godinne
+stops,stop_name,"","",Testelt,de,Testelt
+stops,stop_name,"","",Mamer-Lycée (LU),de,Mamer-Lycée (LU)
+stops,stop_name,"","",GOEBELSMUHLE,de,GOEBELSMUHLE
+stops,stop_name,"","",Blaton,de,Blaton
+stops,stop_name,"","",Mamer (LU),de,Mamer (LU)
+stops,stop_name,"","",Gontrode,de,Gontrode
+stops,stop_name,"","",Anzegem,de,Anzegem
+stops,stop_name,"","",Malines-Nekkerspoel,de,Mechelen-Nekkerspoel / Malines-Nekkerspoel
+stops,stop_name,"","",Gouvy,de,Gouvy
+stops,stop_name,"","",Ternat,de,Ternat
+stops,stop_name,"","",Aachen Hbf (DE),de,Aachen HBF (DE)
+stops,stop_name,"","",Bilzen,de,Bilzen
+stops,stop_name,"","",Mazy,de,Mazy
+stops,stop_name,"","",Maubray,de,Maubray
+stops,stop_name,"","",Maubeuge (FR),de,Maubeuge (FR)
+stops,stop_name,"","",Gouvy-Frontière,de,Gouvy-Frontière
+stops,stop_name,"","",Graide,de,Graide
+stops,stop_name,"","",Bockstael,de,Bockstael
+stops,stop_name,"","",Groenendaal,de,Groenendaal
+stops,stop_name,"","",Terhagen,de,Terhagen
+stops,stop_name,"","",Luxembourg (LU),de,Luxemburg (LU)
+stops,stop_name,"","",Lustin,de,Lustin
+stops,stop_name,"","",Boitsfort,de,Bosvoorde / Boitsfort
+stops,stop_name,"","",Halanzy,de,Halanzy
+stops,stop_name,"","",LORRAINE TGV,de,LORRAINE TGV
+stops,stop_name,"","",Tilly,de,Tilly
+stops,stop_name,"","",Melsele,de,Melsele
+stops,stop_name,"","",Furnes,de,Veurne / Furnes
+stops,stop_name,"","",Gand-Dampoort,de,Gent-Dampoort / Gand-Dampoort
+stops,stop_name,"","",Gand-Saint-Pierre,de,Gent-Sint-Pieters / Gand-Saint-Pierre
+stops,stop_name,"","",Meerssen,de,Meerssen
+stops,stop_name,"","",Gastuche,de,Gastuche
+stops,stop_name,"","",Bissegem,de,Bissegem
+stops,stop_name,"","",Gouy-lez-Piéton,de,Gouy-lez-Piéton
+stops,stop_name,"","",Maffle,de,Maffle
+stops,stop_name,"","",Grand-Bigard,de,Groot-Bijgaarden
+stops,stop_name,"","",Grupont,de,Grupont
+stops,stop_name,"","",Haacht,de,Haacht
+stops,stop_name,"","",Haaltert,de,Haaltert
+stops,stop_name,"","",Habay,de,Habay
+stops,stop_name,"","",Lot,de,Lot
+stops,stop_name,"","",Hamont,de,Hamont
+stops,stop_name,"","",Bomal,de,Bomal
+stops,stop_name,"","",Lodelinsart,de,Lodelinsart
+stops,stop_name,"","",Ham-sur-Heure,de,Ham-sur-Heure
+stops,stop_name,"","",Arcades,de,Arcaden
+stops,stop_name,"","",Lobbes,de,Lobbes
+stops,stop_name,"","",Lissewege,de,Lissewege
+stops,stop_name,"","",Hansbeke,de,Hansbeke
+stops,stop_name,"","",Strasbourg (FR),de,Strasbourg (FR)
+stops,stop_name,"","",Linz Hbf (AT),de,Linz Hbf (AT)
+stops,stop_name,"","",Fraipont,de,Fraipont
+stops,stop_name,"","",Bierges-Walibi,de,Bierges-Walibi
+stops,stop_name,"","",Merelbeke,de,Merelbeke
+stops,stop_name,"","",Tilff,de,Tilff
+stops,stop_name,"","",Anvers-Noorderdokken,de,Antwerpen-Noorderdokken / Anvers-Noorderdokken
+stops,stop_name,"","",Thulin,de,Thulin
+stops,stop_name,"","",Malines,de,Mechelen / Malines
+stops,stop_name,"","",Alost,de,Aalst / Alost
+stops,stop_name,"","",Grammont,de,Geraardsbergen / Grammont
+stops,stop_name,"","",Tamise,de,Temse / Tamise
+stops,stop_name,"","",Louvain,de,Leuven / Louvain
+stops,stop_name,"","",Tamines,de,Tamines
+stops,stop_name,"","",Harchies,de,Harchies
+stops,stop_name,"","",Bonn-Beuel (DE),de,Bonn-Beuel (DE)
+stops,stop_name,"","",Linkebeek,de,Linkebeek
+stops,stop_name,"","",Harelbeke,de,Harelbeke
+stops,stop_name,"","",Alost Kerrebroek,de,Aalst-Kerrebroek/Alost-Kerrebroek
+stops,stop_name,"","",Limburg Sud (DE),de,Limburg Sud (DE)
+stops,stop_name,"","",Haren,de,Haren
+stops,stop_name,"","",Stockem,de,Stockem
+stops,stop_name,"","",Mévergnies-Attre,de,Mévergnies-Attre
+stops,stop_name,"","",Anvers-Luchtbal,de,Antwerpen-Luchtbal / Anvers-Luchtbal
+stops,stop_name,"","",Méry,de,Méry
+stops,stop_name,"","",Franchimont,de,Franchimont
+stops,stop_name,"","",Alken,de,Alken
+stops,stop_name,"","",Bierset-Awans,de,Bierset-Awans
+stops,stop_name,"","",Froyennes,de,Froyennes
+stops,stop_name,"","",Gammerages,de,Galmaarden / Gammerages
+stops,stop_name,"","",Gavere-Asper,de,Gavere-Asper
+stops,stop_name,"","",Gedinne,de,Gedinne
+stops,stop_name,"","",Bléret,de,Bléret
+stops,stop_name,"","",Malderen,de,Malderen
+stops,stop_name,"","",Termonde,de,Dendermonde / Termonde
+stops,stop_name,"","",Hainin,de,Hainin
+stops,stop_name,"","",Hal,de,Halle / Hal
+stops,stop_name,"","",Bokrijk,de,Bokrijk
+stops,stop_name,"","",Lonzée,de,Lonzée
+stops,stop_name,"","",Hambos,de,Hambos
+stops,stop_name,"","",Wervik,de,Wervik
+stops,stop_name,"","",Londerzeel,de,Londerzeel
+stops,stop_name,"","",Lommel,de,Lommel
+stops,stop_name,"","",Hamoir,de,Hamoir
+stops,stop_name,"","",Sy,de,Sy
+stops,stop_name,"","",Lokeren,de,Lokeren
+stops,stop_name,"","",Forrières,de,Forrières
+stops,stop_name,"","",Frameries,de,Frameries
+stops,stop_name,"","",Mersch (LU),de,Mersch (LU)
+stops,stop_name,"","",Franière,de,Franière
+stops,stop_name,"","",Frankfurt Main (DE),de,Frankfurt Main (DE)
+stops,stop_name,"","",Menin,de,Menen / Menin
+stops,stop_name,"","",Melkouwen,de,Melkouwen
+stops,stop_name,"","",Tielen,de,Tielen
+stops,stop_name,"","",Binche,de,Binche
+stops,stop_name,"","",Aarsele,de,Aarsele
+stops,stop_name,"","",Masnuy-Saint-Pierre,de,Masnuy-Saint-Pierre
+stops,stop_name,"","",Gembloux,de,Gembloux
+stops,stop_name,"","",Mainz Hbf (DE),de,Mainz Hbf (DE)
+stops,stop_name,"","",Maastricht Randwijck (NL),de,Maastricht Randwijck (NL)
+stops,stop_name,"","",Wespelaar-Tildonk,de,Wespelaar-Tildonk
+stops,stop_name,"","",Maastricht (NL),de,Maastricht (NL)
+stops,stop_name,"","",Boechout,de,Boechout
+stops,stop_name,"","",Luttre,de,Luttre
+stops,stop_name,"","",Appelterre,de,Appelterre
+stops,stop_name,"","",Louvain-la-Neuve,de,Louvain-la-Neuve
+stops,stop_name,"","",Zwijndrecht,de,Zwijndrecht
+stops,stop_name,"","",Limal,de,Limal
+stops,stop_name,"","",Haren-Sud,de,Haren-Zuid / Haren-Sud
+stops,stop_name,"","",Sterpenich-Frontière,de,Sterpenich-Frontière
+stops,stop_name,"","",Lillois,de,Lillois
+stops,stop_name,"","",Hasselt,de,Hasselt
+stops,stop_name,"","",Booischot,de,Booischot
+stops,stop_name,"","",Lille Flandres (FR),de,Lille Flandres (FR)
+stops,stop_name,"","",Haute-Flône,de,Haute-Flône
+stops,stop_name,"","",Welle,de,Welle
+stops,stop_name,"","",Lille Europe (FR),de,Lille Europe (FR)
+stops,stop_name,"","",Haversin,de,Haversin
+stops,stop_name,"","",Statte,de,Statte
+stops,stop_name,"","",Ligny,de,Ligny
+stops,stop_name,"","",Havré,de,Havré
+stops,stop_name,"","",Boom,de,Boom
+stops,stop_name,"","",Liers,de,Liers
+stops,stop_name,"","",Heerlen,de,Heerlen
+stops,stop_name,"","",Archennes,de,Eerken / Archennes
+stops,stop_name,"","",Lierre,de,Lier / Lierre
+stops,stop_name,"","",Heide,de,Heide
+stops,stop_name,"","",Spa-Géronstère,de,Spa-Géronstère
+stops,stop_name,"","",Lierde,de,Lierde
+stops,stop_name,"","",Heist,de,Heist
+stops,stop_name,"","",Boondael,de,Boondaal / Boondael
+stops,stop_name,"","",Liège-Saint-Lambert,de,Luik-Sint-Lambertus / Liège-Saint-Lambert
+stops,stop_name,"","",Heist-op-den-Berg,de,Heist-op-den-Berg
+stops,stop_name,"","",Zolder,de,Zolder
+stops,stop_name,"","",Liège-Guillemins,de,Luik-Guillemins / Liège-Guillemins
+stops,stop_name,"","",Heizijde,de,Heizijde
+stops,stop_name,"","",Spa,de,Spa
+stops,stop_name,"","",Liège-Carré,de,Luik-Carré / Liège-Carré
+stops,stop_name,"","",Hellemmes (FR),de,Hellemmes (FR)
+stops,stop_name,"","",Boortmeerbeek,de,Boortmeerbeek
+stops,stop_name,"","",Liedekerke,de,Liedekerke
+stops,stop_name,"","",Hemiksem,de,Hemiksem
+stops,stop_name,"","",Welkenraedt,de,Welkenraedt
+stops,stop_name,"","",Lichtervelde,de,Lichtervelde
+stops,stop_name,"","",Hennuyères,de,Hennuyères
+stops,stop_name,"","",Solre-sur-Sambre,de,Solre-sur-Sambre
+stops,stop_name,"","",Libramont,de,Libramont
+stops,stop_name,"","",Herentals,de,Herentals
+stops,stop_name,"","",Bordet,de,Bordet
+stops,stop_name,"","",Lezennes (FR),de,Lezennes (FR)
+stops,stop_name,"","",Herent,de,Herent
+stops,stop_name,"","",Arlon,de,Aarlen / Arlon
+stops,stop_name,"","",Leval,de,Leval
+stops,stop_name,"","",Hergenrath,de,Hergenrath
+stops,stop_name,"","",Soignies,de,Zinnik / Soignies
+stops,stop_name,"","",Hergenrath-Frontière,de,Hergenrath-Frontière
+stops,stop_name,"","",Bornem,de,Bornem
+stops,stop_name,"","",Leuze,de,Leuze
+stops,stop_name,"","",Leudelange (LU),de,Leudelange (LU)
+stops,stop_name,"","",Herne,de,Herne
+stops,stop_name,"","",Zeebrugge-Dorp,de,Zeebrugge-Dorp
+stops,stop_name,"","",Lessines,de,Lessen / Lessines
+stops,stop_name,"","",Herseaux,de,Herseaux
+stops,stop_name,"","",Sleidinge,de,Sleidinge
+stops,stop_name,"","",Lens,de,Lens
+stops,stop_name,"","",Herstal,de,Herstal
+stops,stop_name,"","",Bourg-Léopold,de,Leopoldsburg / Bourg Léopold
+stops,stop_name,"","",Lembeek,de,Lembeek
+stops,stop_name,"","",Herzele,de,Herzele
+stops,stop_name,"","",Weerde,de,Weerde
+stops,stop_name,"","",Leman,de,Leman
+stops,stop_name,"","",Herzogenrath,de,Herzogenrath
+stops,stop_name,"","",Sint-Martens-Bodegem,de,Sint-Martens-Bodegem
+stops,stop_name,"","",Leignon,de,Leignon
+stops,stop_name,"","",Heusden,de,Heusden
+stops,stop_name,"","",Boussu,de,Boussu
+stops,stop_name,"","",Lede,de,Lede
+stops,stop_name,"","",Hever,de,Hever
+stops,stop_name,"","",Ascq (FR),de,Ascq (FR)
+stops,stop_name,"","",Heverlee,de,Heverlee
+stops,stop_name,"","",Sint-Mariaburg,de,Sint-Mariaburg
+stops,stop_name,"","",Le Campinaire,de,Le Campinaire
+stops,stop_name,"","",Lebbeke,de,Lebbeke
+stops,stop_name,"","",Hillegem,de,Hillegem
+stops,stop_name,"","",Bouwel,de,Bouwel
+stops,stop_name,"","",La Roche (brabant),de,La Roche(Brabant)
+stops,stop_name,"","",Hoboken-Polder,de,Hoboken-Polder
+stops,stop_name,"","",Zedelgem,de,Zedelgem
+stops,stop_name,"","",La Panne,de,De Panne / La Panne
+stops,stop_name,"","",Hoeilaart,de,Hoeilaart
+stops,stop_name,"","",Sint-Katelijne-Waver,de,Sint-Katelijne-Waver
+stops,stop_name,"","",Langdorp,de,Langdorp
+stops,stop_name,"","",Hofstade,de,Hofstade
+stops,stop_name,"","",Bracquegnies,de,Bracquegnies
+stops,stop_name,"","",Landskouter,de,Landskouter
+stops,stop_name,"","",Holleken,de,Holleken
+stops,stop_name,"","",Wavre,de,Waver / Wavre
+stops,stop_name,"","",Landgraaf,de,Landgraaf
+stops,stop_name,"","",Hollerich (LU),de,Hollerich (LU)
+stops,stop_name,"","",Sint-Joris-Weert,de,Sint-Joris-Weert
+stops,stop_name,"","",Landen,de,Landen
+stops,stop_name,"","",Hony,de,Hony
+stops,stop_name,"","",BRAINE-ALLIANCE,de,BRAINE-ALLIANCE
+stops,stop_name,"","",Landelies,de,Landelies
+stops,stop_name,"","",Houraing,de,Houraing
+stops,stop_name,"","",Asse,de,Asse
+stops,stop_name,"","",Landegem,de,Landegem
+stops,stop_name,"","",Hourpes,de,Hourpes
+stops,stop_name,"","",Sint-Gillis,de,Sint-Gillis
+stops,stop_name,"","",Lamadeleine (LU),de,Lamadeleine (LU)
+stops,stop_name,"","",Houyet,de,Houyet
+stops,stop_name,"","",Braine-l'Alleud,de,Braine-l'Alleud
+stops,stop_name,"","",La Louvière-Sud,de,La Louvière-Zuid / La Louvière-Sud
+stops,stop_name,"","",Hove,de,Hove
+stops,stop_name,"","",Amay,de,Amay
+stops,stop_name,"","",La Louvière-Centre,de,La Louvière-Centre
+stops,stop_name,"","",Huizingen,de,Huizingen
+stops,stop_name,"","",Sint-Denijs-Boekel,de,Sint-Denijs-Boekel
+stops,stop_name,"","",La Hulpe,de,Terhulpen / La Hulpe
+stops,stop_name,"","",Huy,de,Hoei / Huy
+stops,stop_name,"","",Braine-le-Comte,de,'s-Gravenbrakel / Braine-le-Comte
+stops,stop_name,"","",Labuissière,de,Labuissière
+stops,stop_name,"","",Iddergem,de,Iddergem
+stops,stop_name,"","",Watermael,de,Watermaal / Watermael
+stops,stop_name,"","",Kwatrecht,de,Kwatrecht
+stops,stop_name,"","",Idegem,de,Idegem
+stops,stop_name,"","",Sinaai,de,Sinaai
+stops,stop_name,"","",Kortenberg,de,Kortenberg
+stops,stop_name,"","",Ingelmunster,de,Ingelmunster
+stops,stop_name,"","",Breda (NL),de,Breda (NL)
+stops,stop_name,"","",Kortemark,de,Kortemark
+stops,stop_name,"","",Izegem,de,Izegem
+stops,stop_name,"","",Assesse,de,Assesse
+stops,stop_name,"","",Kontich-Lint,de,Kontich-Lint
+stops,stop_name,"","",Jambes,de,Jambes
+stops,stop_name,"","",Simonis,de,Simonis
+stops,stop_name,"","",Jambes-Est,de,Jambes-Oost / Jambes-Est
+stops,stop_name,"","",Bressoux,de,Bressoux
+stops,stop_name,"","",KOLN SUD,de,KOLN-SUD
+stops,stop_name,"","",Köln Hbf (DE),de,Köln Hbf (DE)
+stops,stop_name,"","",Jamioulx,de,Jamioulx
+stops,stop_name,"","",Acren,de,Acren
+stops,stop_name,"","",KOLN-EHRENFELD,de,KOLN-EHRENFELD
+stops,stop_name,"","",Jemappes,de,Jemappes
+stops,stop_name,"","",Silly,de,Opzullik / Silly
+stops,stop_name,"","",Koblenz Hbf (DE),de,Koblenz Hbf (DE)
+stops,stop_name,"","",Jemeppe-sur-Meuse,de,Jemeppe-sur-Meuse
+stops,stop_name,"","",Brugelette,de,Brugelette
+stops,stop_name,"","",Knokke,de,Knokke
+stops,stop_name,"","",Jemeppe-sur-Sambre,de,Jemeppe-sur-Sambre
+stops,stop_name,"","",Waterloo,de,Waterloo
+stops,stop_name,"","",Kleinbettingen (LU),de,Kleinbettingen (LU)
+stops,stop_name,"","",Jette,de,Jette
+stops,stop_name,"","",Siegburg (DE),de,Siegburg (DE)
+stops,stop_name,"","",Kijkuit,de,Kijkuit
+stops,stop_name,"","",Jurbise,de,Jurbeke / Jurbise
+stops,stop_name,"","",Bruges,de,Brugge / Bruges
+stops,stop_name,"","",Kiewit,de,Kiewit
+stops,stop_name,"","",Juslenville,de,Juslenville
+stops,stop_name,"","",Ath,de,Aat / Ath
+stops,stop_name,"","",Kessel,de,Kessel
+stops,stop_name,"","",Kalmthout,de,Kalmthout
+stops,stop_name,"","",Serskamp,de,Serskamp
+stops,stop_name,"","",Kautenbach (LU),de,Kautenbach (LU)
+stops,stop_name,"","",Kapellen,de,Kapellen
+stops,stop_name,"","",Bruges-Saint-Pierre,de,Brugge-Sint-Pieters / Bruges-Saint-Pierre
+stops,stop_name,"","",Kapelle-op-den-Bos,de,Kapelle-op-den-Bos
+stops,stop_name,"","",Zaventem,de,Zaventem
+stops,stop_name,"","",Seraing,de,Seraing
+stops,stop_name,"","",Brussels Airport-Zaventem,de,Brussels Airport-Zaventem
+stops,stop_name,"","",Waremme,de,Borgworm / Waremme
+stops,stop_name,"","",Sclessin,de,Sclessin
+stops,stop_name,"","",Bruxelles-Central,de,Brus.-/ Brux-Centr.
+stops,stop_name,"","",Athus,de,Athus
+stops,stop_name,"","",Sclaigneaux,de,Sclaigneaux
+stops,stop_name,"","",Bruxelles-Chapelle,de,Brus.-Kap. / Brux.-Chap.
+stops,stop_name,"","",Ampsin,de,Ampsin
+stops,stop_name,"","",Schulen,de,Schulen
+stops,stop_name,"","",Bruxelles-Congrès,de,Brüssel-Congres
+stops,stop_name,"","",Athus-Frontière,de,Athus-Frontière
+stops,stop_name,"","",Schouweiler (LU),de,Schouweiler (LU)
+stops,stop_name,"","",Bruxelles-Luxembourg,de,Brus./Brux.-Luxemb.
+stops,stop_name,"","",Zottegem,de,Zottegem
+stops,stop_name,"","",Schoonaarde,de,Schoonaarde
+stops,stop_name,"","",Bruxelles-Midi,de,Brus.-Zuid / Brux.-Midi
+stops,stop_name,"","",Waregem,de,Waregem
+stops,stop_name,"","",Schendelbeke,de,Schendelbeke
+stops,stop_name,"","",Bruxelles-Nord,de,Brus.-Noord / Brux.-Nord
+stops,stop_name,"","",Walcourt,de,Walcourt
+stops,stop_name,"","",Schelle,de,Schelle
+stops,stop_name,"","",Bruxelles-Ouest,de,Brus.-West / Brux.-Ouest
+stops,stop_name,"","",Aubange,de,Aubange
+stops,stop_name,"","",Schellebelle,de,Schellebelle
+stops,stop_name,"","",Bruxelles-Schuman,de,Brus./Brux.-Schuman
+stops,stop_name,"","",Zandbergen,de,Zandbergen
+stops,stop_name,"","",Scheldewindeke,de,Scheldewindeke
+stops,stop_name,"","",Buda,de,Buda
+stops,stop_name,"","",Aubange-Frontière-Luxembourg,de,Aubange-Frontière-Luxembourg
+stops,stop_name,"","",Schaerbeek,de,Schaarbeek / Schaerbeek
+stops,stop_name,"","",Buggenhout,de,Buggenhout
+stops,stop_name,"","",Andenne,de,Andenne
+stops,stop_name,"","",Sart-Bernard,de,Sart-Bernard
+stops,stop_name,"","",Buizingen,de,Buizingen
+stops,stop_name,"","",Waarschoot,de,Waarschoot
+stops,stop_name,"","",Salzburg Hbf (AT),de,Salzburg Hbf (AT)
+stops,stop_name,"","",Burst,de,Burst
+stops,stop_name,"","",Voroux,de,Voroux
+stops,stop_name,"","",Saint-Trond,de,Sint-Truiden / Saint-Trond
+stops,stop_name,"","",Callenelle,de,Callenelle
+stops,stop_name,"","",Audenarde,de,Oudenaarde / Audenarde
+stops,stop_name,"","",Saint-Nicolas,de,Sint-Niklaas / Saint-Nicolas
+stops,stop_name,"","",Cambron-Casteau,de,Cambron-Casteau
+stops,stop_name,"","",Visé-Frontière,de,Visé-Frontière
+stops,stop_name,"","",Roubaix (FR),de,Roubaix (FR)
+stops,stop_name,"","",Charleroi-Central,de,Charleroi-Central
+stops,stop_name,"","",Aye,de,Aye
+stops,stop_name,"","",Rotterdam Centraal (NL),de,Rotterdam Centraal (NL)
+stops,stop_name,"","",Charleroi-Ouest,de,Charleroi-West / Charleroi-Ouest
+stops,stop_name,"","",Aéroport Cdg TGV (FR),de,Aéroport Cdg TGV (FR)
+stops,stop_name,"","",Rosenheim (DE),de,Rosenheim (DE)
+stops,stop_name,"","",Chastre,de,Chastre
+stops,stop_name,"","",Visé,de,Wezet / Visé
+stops,stop_name,"","",Roosendaal (NL),de,Roosendaal (NL)
+stops,stop_name,"","",Château-de-Seilles,de,Château-de-Seilles
+stops,stop_name,"","",Aywaille,de,Aywaille
+stops,stop_name,"","",Ronet,de,Ronet
+stops,stop_name,"","",Châtelet,de,Châtelet
+stops,stop_name,"","",Yves-Gomezée,de,Yves-Gomezée
+stops,stop_name,"","",Rodange (LU),de,Rodange (LU)
+stops,stop_name,"","",Chaudfontaine,de,Chaudfontaine
+stops,stop_name,"","",Virton,de,Virton
+stops,stop_name,"","",Rochefort-Jemelle,de,Rochefort-Jemelle
+stops,stop_name,"","",Chênée,de,Chênée
+stops,stop_name,"","",Baasrode-Zuid,de,Baasrode-Zuid / Baasrode-Sud
+stops,stop_name,"","",Rixensart,de,Rixensart
+stops,stop_name,"","",Ciney,de,Ciney
+stops,stop_name,"","",Angleur,de,Angleur
+stops,stop_name,"","",Rivage,de,Rivage
+stops,stop_name,"","",Clervaux (LU),de,Clervaux (LU)
+stops,stop_name,"","",Vilvorde,de,Vilvoorde / Vilvorde
+stops,stop_name,"","",Rhode-Saint-Genèse,de,St.-Gen.-Rode/Rhode-St-Gen.
+stops,stop_name,"","",Comblain-la-Tour,de,Comblain-la-Tour
+stops,stop_name,"","",Baisieux (FR),de,Baisieux (FR)
+stops,stop_name,"","",Rhisnes,de,Rhisnes
+stops,stop_name,"","",Comines,de,Komen / Comines
+stops,stop_name,"","",Aarschot,de,Aarschot
+stops,stop_name,"","",Renaix,de,Ronse / Renaix
+stops,stop_name,"","",Coo,de,Coo
+stops,stop_name,"","",Villers-la-Ville,de,Villers-la-Ville
+stops,stop_name,"","",Remicourt,de,Remicourt
+stops,stop_name,"","",Couillet,de,Couillet
+stops,stop_name,"","",Balegem-Dorp,de,Balegem-Dorp / Balegem-Village
+stops,stop_name,"","",Rebaix,de,Rebaix
+stops,stop_name,"","",Courcelles-Motte,de,Courcelles-Motte
+stops,stop_name,"","",Ypres,de,Ieper / Ypres
+stops,stop_name,"","",Quiévrain,de,Quiévrain
+stops,stop_name,"","",Courrière,de,Courrière
+stops,stop_name,"","",Zingem,de,Zingem
+stops,stop_name,"","",Saint-Job,de,Sint-Job / Saint-Job
+stops,stop_name,"","",Capellen (LU),de,Capellen (LU)
+stops,stop_name,"","",Viville,de,Viville
+stops,stop_name,"","",Saint-Ghislain,de,Saint-Ghislain
+stops,stop_name,"","",Carlsbourg,de,Carlsbourg
+stops,stop_name,"","",Aulnoye Aymeries (FR),de,Aulnoye Aymeries (FR)
+stops,stop_name,"","",Saint-Denis-Bovesse,de,Saint-Denis-Bovesse
+stops,stop_name,"","",Carnières,de,Carnières
+stops,stop_name,"","",Yvoir,de,Yvoir
+stops,stop_name,"","",Ruisbroek-Sauvegarde,de,Ruisbroek-Sauvegarde
+stops,stop_name,"","",Céroux-Mousty,de,Céroux-Mousty
+stops,stop_name,"","",Vivier D'Oie,de,Diesdelle / Vivier D'Oie
+stops,stop_name,"","",Ruisbroek,de,Ruisbroek
+stops,stop_name,"","",Champagne-Ardenne TGV (FR),de,Champagne-Ardenne TGV (FR)
+stops,stop_name,"","",Auvelais,de,Auvelais
+stops,stop_name,"","",Roux,de,Roux
+stops,stop_name,"","",Chapelle-Dieu,de,Chapelle-Dieu
+stops,stop_name,"","",Anderlecht,de,Anderlecht
+stops,stop_name,"","",Roulers,de,Roeselare / Roulers
+stops,stop_name,"","",Chapois,de,Chapois
+stops,stop_name,"","",Ville-Pommeroeul,de,Ville-Pommeroeul
+stops,stop_name,"","",QUEVY-FRONTIERE,de,QUEVY-FRONTIERE
+stops,stop_name,"","",Cour-sur-Heure,de,Cour-sur-Heure
+stops,stop_name,"","",Balegem-Zuid,de,Balegem-Zuid / Balegem-Sud
+stops,stop_name,"","",Quévy,de,Quévy
+stops,stop_name,"","",Courtrai,de,Kortrijk / Courtrai
+stops,stop_name,"","",Poix-Saint-Hubert,de,Poix-Saint-Hubert
+stops,stop_name,"","",Delta,de,Delta
+stops,stop_name,"","",Viane-Moerbeke,de,Viane-Moerbeke
+stops,stop_name,"","",Piéton,de,Piéton
+stops,stop_name,"","",Denderleeuw,de,Denderleeuw
+stops,stop_name,"","",Bascharage-Sanem (LU),de,Bascharage-Sanem (LU)
+stops,stop_name,"","",Philippeville,de,Philippeville
+stops,stop_name,"","",De Pinte,de,De Pinte
+stops,stop_name,"","",Aiseau,de,Aiseau
+stops,stop_name,"","",Pfaffenthal-Kirchberg (LU),de,Pfaffenthal-Kirchberg (LU)
+stops,stop_name,"","",Diegem,de,Diegem
+stops,stop_name,"","",Verviers-Palais,de,Verviers-Paleis / Verviers-Palais
+stops,stop_name,"","",Pétange (LU),de,Pétange (LU)
+stops,stop_name,"","",Diepenbeek,de,Diepenbeek
+stops,stop_name,"","",Bas-Oha,de,Bas-Oha
+stops,stop_name,"","",Péruwelz,de,Péruwelz
+stops,stop_name,"","",Diest,de,Diest
+stops,stop_name,"","",Anseremme,de,Anseremme
+stops,stop_name,"","",Pepinster,de,Pepinster
+stops,stop_name,"","",Dilbeek,de,Dilbeek
+stops,stop_name,"","",Verviers-Central,de,Verviers-Centraal / Verviers-Central
+stops,stop_name,"","",Pepinster-Cité,de,Pepinster-Cité
+stops,stop_name,"","",Dinant,de,Dinant
+stops,stop_name,"","",Basse-Wavre,de,Basse-Wavre
+stops,stop_name,"","",Pécrot,de,Pécrot
+stops,stop_name,"","",Dippach-Reckange (LU),de,Dippach-Reckange (LU)
+stops,stop_name,"","",Aalter,de,Aalter
+stops,stop_name,"","",Paris Nord (FR),de,Paris Nord (FR)
+stops,stop_name,"","",Dixmude,de,Diksmuide/Dixmude
+stops,stop_name,"","",Vertrijk,de,Vertrijk
+stops,stop_name,"","",Papignies,de,Papignies
+stops,stop_name,"","",Dolhain-Gileppe,de,Dolhain-Gileppe
+stops,stop_name,"","",Beauraing,de,Beauraing
+stops,stop_name,"","",Paliseul,de,Paliseul
+stops,stop_name,"","",Drauffelt (LU),de,Drauffelt (LU)
+stops,stop_name,"","",Wolfstee,de,Wolfstee
+stops,stop_name,"","",Overpelt,de,Overpelt
+stops,stop_name,"","",Duffel,de,Duffel
+stops,stop_name,"","",Veltem,de,Veltem
+stops,stop_name,"","",Ougrée,de,Ougrée
+stops,stop_name,"","",Duinbergen,de,Duinbergen
+stops,stop_name,"","",Beernem,de,Beernem
+stops,stop_name,"","",Oud-Heverlee,de,Oud-Heverlee
+stops,stop_name,"","",Ecaussinnes,de,Ecaussinnes
+stops,stop_name,"","",Wilwerwiltz (LU),de,Wilwerwiltz (LU)
+stops,stop_name,"","",Oudegem,de,Oudegem
+stops,stop_name,"","",Annappes (FR),de,Annappes (FR)
+stops,stop_name,"","",Quaregnon,de,Quaregnon
+stops,stop_name,"","",Court-Saint-Etienne,de,Court-Saint-Etienne
+stops,stop_name,"","",Vijfhuizen,de,Vijfhuizen
+stops,stop_name,"","",Puurs,de,Puurs
+stops,stop_name,"","",Couvin,de,Couvin
+stops,stop_name,"","",Balen,de,Balen
+stops,stop_name,"","",Pry,de,Pry
+stops,stop_name,"","",Coxyde,de,Koksijde / Coxyde
+stops,stop_name,"","",Zichem,de,Zichem
+stops,stop_name,"","",Profondsart,de,Profondsart
+stops,stop_name,"","",Creil - Bât Voyageurs,de,Creil - Bât Voyageurs
+stops,stop_name,"","",Vielsalm,de,Vielsalm
+stops,stop_name,"","",Poulseur,de,Poulseur
+stops,stop_name,"","",Croix l'Allumette (FR),de,Croix l'Allumette (FR)
+stops,stop_name,"","",Bambrugge,de,Bambrugge
+stops,stop_name,"","",Poperinge,de,Poperinge
+stops,stop_name,"","",Croix Wasquehal (FR),de,Croix Wasquehal (FR)
+stops,stop_name,"","",Wondelgem,de,Wondelgem
+stops,stop_name,"","",Pont-de-Seraing,de,Pont-de-Seraing
+stops,stop_name,"","",Dave-Saint-Martin,de,Dave-Saint-Martin
+stops,stop_name,"","",Vichte,de,Vichte
+stops,stop_name,"","",Pont de Bois (FR),de,Pont de Bois (FR)
+stops,stop_name,"","",De Hoek,de,De Hoek
+stops,stop_name,"","",Barvaux,de,Barvaux
+stops,stop_name,"","",Pont-à-Celles,de,Pont-à-Celles
+stops,stop_name,"","",Deinze,de,Deinze
+stops,stop_name,"","",Ans,de,Ans
+stops,stop_name,"","",Ede,de,Ede
+stops,stop_name,"","",Valkenburg,de,Valkenburg
+stops,stop_name,"","",Ottignies,de,Ottignies
+stops,stop_name,"","",Eeklo,de,Eeklo
+stops,stop_name,"","",Beersel,de,Beersel
+stops,stop_name,"","",Ostende,de,Oostende / Ostende
+stops,stop_name,"","",Eichem,de,Eichem
+stops,stop_name,"","",Antoing,de,Antoing
+stops,stop_name,"","",Opwijk,de,Opwijk
+stops,stop_name,"","",Eijsden (NL),de,Eijsden (NL)
+stops,stop_name,"","",Uccle-Stalle,de,Ukkel- / Uccle-Stalle
+stops,stop_name,"","",Oostkamp,de,Oostkamp
+stops,stop_name,"","",Eine,de,Eine
+stops,stop_name,"","",Beervelde,de,Beervelde
+stops,stop_name,"","",Olen,de,Olen
+stops,stop_name,"","",Eke-Nazareth,de,Eke-Nazareth
+stops,stop_name,"","",Zellik,de,Zellik
+stops,stop_name,"","",Okegem,de,Okegem
+stops,stop_name,"","",Ekeren,de,Ekeren
+stops,stop_name,"","",Uccle-Calevoet,de,Ukkel Kalevoet / Uccle-Calevoet
+stops,stop_name,"","",Obourg,de,Obourg
+stops,stop_name,"","",Enghien,de,Edingen / Enghien
+stops,stop_name,"","",Begijnendijk,de,Begijnendijk
+stops,stop_name,"","",Obaix-Buzet,de,Obaix-Buzet
+stops,stop_name,"","",Engis,de,Engis
+stops,stop_name,"","",Willebroek,de,Willebroek
+stops,stop_name,"","",Nossegem,de,Nossegem
+stops,stop_name,"","",Eppegem,de,Eppegem
+stops,stop_name,"","",Turnhout,de,Turnhout
+stops,stop_name,"","",Noorderkempen (Brecht),de,Noorderkempen (Brecht)
+stops,stop_name,"","",Erbisoeul,de,Erbisoeul
+stops,stop_name,"","",Beignée,de,Beignée
+stops,stop_name,"","",Nivelles,de,Nijvel / Nivelles
+stops,stop_name,"","",Erembodegem,de,Erembodegem
+stops,stop_name,"","",Anvers-Berchem,de,Antwerpen-Berchem / Anvers-Berchem
+stops,stop_name,"","",Ninove,de,Ninove
+stops,stop_name,"","",Ernage,de,Ernage
+stops,stop_name,"","",Tubize,de,Tubeke / Tubize
+stops,stop_name,"","",Nimy,de,Nimy
+stops,stop_name,"","",Erpe-Mere,de,Erpe-Mere
+stops,stop_name,"","",Bellem,de,Bellem
+stops,stop_name,"","",Nijlen,de,Nijlen
+stops,stop_name,"","",Erps-Kwerps,de,Erps-Kwerps
+stops,stop_name,"","",Aix-la-Chapelle Ouest,de,Aachen West
+stops,stop_name,"","",Nieuwkerken-Waas,de,Nieuwkerken-Waas
+stops,stop_name,"","",Erquelinnes,de,Erquelinnes
+stops,stop_name,"","",Trooz,de,Trooz
+stops,stop_name,"","",ERQUELINNES-FRONTIERE,de,ERQUELINNES-FRONTIERE
+stops,stop_name,"","",Belsele,de,Belsele
+stops,stop_name,"","",Niel,de,Niel
+stops,stop_name,"","",Neufvilles,de,Neufvilles
+stops,stop_name,"","",Erquelinnes-Village,de,Erquelinnes-Dorp / Erquelinnes-Village
+stops,stop_name,"","",Wildert,de,Wildert
+stops,stop_name,"","",Neufchâteau,de,Neufchâteau
+stops,stop_name,"","",Esneux,de,Esneux
+stops,stop_name,"","",Tronchiennes,de,Drongen / Tronchiennes
+stops,stop_name,"","",Nessonvaux,de,Nessonvaux
+stops,stop_name,"","",ESPLECHIN-FRONTIERE,de,ESPLECHIN-FRONTIERE
+stops,stop_name,"","",Berchem-Sainte-Agathe,de,St-Ag./-Berchem-/St-Ag.
+stops,stop_name,"","",Neerwinden,de,Neerwinden
+stops,stop_name,"","",Essen,de,Essen
+stops,stop_name,"","",Essene Lombeek,de,Essene-Lombeek
+stops,stop_name,"","",Anvers-Central,de,Antwerpen-Centraal / Anvers-Central
+stops,stop_name,"","",Neerpelt,de,Neerpelt
+stops,stop_name,"","",Troisvierges (LU),de,Troisvierges (LU)
+stops,stop_name,"","",Essen-Grens,de,Essen-Grens
+stops,stop_name,"","",Beringen,de,Beringen
+stops,stop_name,"","",Natoye,de,Natoye
+stops,stop_name,"","",Naninne,de,Naninne
+stops,stop_name,"","",Ettelbruck (LU),de,Ettelbruck (LU)
+stops,stop_name,"","",Zonhoven,de,Zonhoven
+stops,stop_name,"","",Namur,de,Namen / Namur
+stops,stop_name,"","",Etterbeek,de,Etterbeek
+stops,stop_name,"","",Trois-Ponts,de,Trois-Ponts
+stops,stop_name,"","",Namêche,de,Namêche
+stops,stop_name,"","",Eupen,de,Eupen
+stops,stop_name,"","",Berlaar,de,Berlaar
+stops,stop_name,"","",Munkzwalm,de,Munkzwalm
+stops,stop_name,"","",Evere,de,Evere
+stops,stop_name,"","",Wijgmaal,de,Wijgmaal
+stops,stop_name,"","",München Ost (DE),de,München Ost (DE)
+stops,stop_name,"","",Evergem,de,Evergem
+stops,stop_name,"","",Tournai,de,Doornik / Tournai
+stops,stop_name,"","",Muizen,de,Muizen
+stops,stop_name,"","",Eygelshoven markt,de,Eygelshoven markt
+stops,stop_name,"","",Tour-et-Taxis,de,Thurn-en-Taxis / Tour-et-Taxis
+stops,stop_name,"","",Moustier,de,Moustier
+stops,stop_name,"","",Ezemaal,de,Ezemaal
+stops,stop_name,"","",Bertrange Strassen (LU),de,Bertrange Strassen (LU)
+stops,stop_name,"","",Mouscron-Frontière,de,Mouscron-Frontière
+stops,stop_name,"","",Familleureux,de,Familleureux
+stops,stop_name,"","",Wien Meidling (AT),de,Wien Meidling (AT)
+stops,stop_name,"","",Mouscron,de,Moeskroen / Mouscron
+stops,stop_name,"","",Farciennes,de,Farciennes
+stops,stop_name,"","",Tourcoing (FR),de,Tourcoing (FR)
+stops,stop_name,"","",Mortsel-Oude God,de,Mortsel-Oude God
+stops,stop_name,"","",Faux,de,Faux
+stops,stop_name,"","",Bertrix,de,Bertrix
+stops,stop_name,"","",Mortsel-Liersesteenweg,de,Mortsel-Liersesteenweg
+stops,stop_name,"","",Fexhe-le-Haut-Clocher,de,Fexhe-le-Haut-Clocher
+stops,stop_name,"","",Wien HBF (AT),de,Wien HBF (AT)
+stops,stop_name,"","",Mortsel,de,Mortsel
+stops,stop_name,"","",Flawinne,de,Flawinne
+stops,stop_name,"","",Torhout,de,Torhout
+stops,stop_name,"","",Morlanwelz,de,Morlanwelz
+stops,stop_name,"","",Flémalle-Grande,de,Flémalle-Grande
+stops,stop_name,"","",Berzée,de,Berzée
+stops,stop_name,"","",Moortsele,de,Moortsele
+stops,stop_name,"","",Flémalle-Haute,de,Flémalle-Haute
+stops,stop_name,"","",Anvers-Linkeroever,de,Antwerpen-Linkeroever
+stops,stop_name,"","",Mont-Saint-Guibert,de,Mont-Saint-Guibert
+stops,stop_name,"","",Fleurus,de,Fleurus
+stops,stop_name,"","",Tongres,de,Tongeren / Tongres
+stops,stop_name,"","",MONTABAUR,de,MONTABAUR
+stops,stop_name,"","",Mons,de,Bergen / Mons
+stops,stop_name,"","",Floreffe,de,Floreffe
+stops,stop_name,"","",Forest-Est,de,Vorst-Oost / Forest-Est
+stops,stop_name,"","",Tirlemont,de,Tienen / Tirlemont
+stops,stop_name,"","",Michelau (LU),de,Michelau (LU)
+stops,stop_name,"","",Forest-Midi,de,Vorst-Zuid / Forest-Midi
+stops,stop_name,"","",Fraipont,en,Fraipont
+stops,stop_name,"","",Aachen Hbf (DE),en,Aachen HBF (DE)
+stops,stop_name,"","",Aalter,en,Aalter
+stops,stop_name,"","",Aarschot,en,Aarschot
+stops,stop_name,"","",Aarsele,en,Aarsele
+stops,stop_name,"","",Acren,en,Acren
+stops,stop_name,"","",Aéroport Cdg TGV (FR),en,Aéroport Cdg TGV (FR)
+stops,stop_name,"","",Aiseau,en,Aiseau
+stops,stop_name,"","",Aix-la-Chapelle Ouest,en,Aachen West
+stops,stop_name,"","",Alken,en,Alken
+stops,stop_name,"","",Alost,en,Alost / Aalst
+stops,stop_name,"","",Alost Kerrebroek,en,Alost Kerrebroek/Aalst Kerrebroek
+stops,stop_name,"","",Beuzet,de,Beuzet
+stops,stop_name,"","",Momalle,de,Momalle
+stops,stop_name,"","",Florenville,de,Florenville
+stops,stop_name,"","",Zele,de,Zele
+stops,stop_name,"","",Mollem,de,Mollem
+stops,stop_name,"","",Florival,de,Florival
+stops,stop_name,"","",Tollembeek,de,Tollembeek
+stops,stop_name,"","",Mol,de,Mol
+stops,stop_name,"","",Fontaine-Valmont,de,Fontaine-Valmont
+stops,stop_name,"","",Beveren,de,Beveren
+stops,stop_name,"","",Moensberg,de,Moensberg
+stops,stop_name,"","",Forchies,de,Forchies
+stops,stop_name,"","",Wichelen,de,Wichelen
+stops,stop_name,"","",Milmort,de,Milmort
+stops,stop_name,"","",Amay,en,Amay
+stops,stop_name,"","",Ampsin,en,Ampsin
+stops,stop_name,"","",Andenne,en,Andenne
+stops,stop_name,"","",Anderlecht,en,Anderlecht
+stops,stop_name,"","",Angleur,en,Angleur
+stops,stop_name,"","",Annappes (FR),en,Annappes (FR)
+stops,stop_name,"","",Ans,en,Ans
+stops,stop_name,"","",Anseremme,en,Anseremme
+stops,stop_name,"","",Antoing,en,Antoing
+stops,stop_name,"","",Anvers-Berchem,en,Anvers-Berchem / Antwerpen-Berchem
+stops,stop_name,"","",Anvers-Central,en,Anvers-Central / Antwerpen-Centraal
+stops,stop_name,"","",Anvers-Linkeroever,en,Antwerpen-Linkeroever
+stops,stop_name,"","",Anvers-Luchtbal,en,Anvers-Luchtbal / Antwerpen-Luchtbal
+stops,stop_name,"","",Anvers-Noorderdokken,en,Anvers-Noorderdokken / Antwerpen-Noorderdokken
+stops,stop_name,"","",Anvers-Sud,en,Anvers-Sud / Antwerpen-Zuid
+stops,stop_name,"","",Anzegem,en,Anzegem
+stops,stop_name,"","",Appelterre,en,Appelterre
+stops,stop_name,"","",Arcades,en,Arcades
+stops,stop_name,"","",Archennes,en,Archennes / Eerken
+stops,stop_name,"","",Arlon,en,Arlon / Aarlen
+stops,stop_name,"","",Ascq (FR),en,Ascq (FR)
+stops,stop_name,"","",Asse,en,Asse
+stops,stop_name,"","",Assesse,en,Assesse
+stops,stop_name,"","",Ath,en,Ath / Aat
+stops,stop_name,"","",Athus,en,Athus
+stops,stop_name,"","",Athus-Frontière,en,Athus-Frontière
+stops,stop_name,"","",Aubange,en,Aubange
+stops,stop_name,"","",Aubange-Frontière-Luxembourg,en,Aubange-Frontière-Luxembourg
+stops,stop_name,"","",Audenarde,en,Audenarde / Oudenaarde
+stops,stop_name,"","",Aulnoye Aymeries (FR),en,Aulnoye Aymeries (FR)
+stops,stop_name,"","",Auvelais,en,Auvelais
+stops,stop_name,"","",Aye,en,Aye
+stops,stop_name,"","",Aywaille,en,Aywaille
+stops,stop_name,"","",Baasrode-Zuid,en,Baasrode-Sud / Baasrode-Zuid
+stops,stop_name,"","",Baisieux (FR),en,Baisieux (FR)
+stops,stop_name,"","",Balegem-Dorp,en,Balegem-Village / Balegem-Dorp
+stops,stop_name,"","",Balegem-Zuid,en,Balegem-Sud / Balegem-Zuid
+stops,stop_name,"","",Balen,en,Balen
+stops,stop_name,"","",Bambrugge,en,Bambrugge
+stops,stop_name,"","",Barvaux,en,Barvaux
+stops,stop_name,"","",Bascharage-Sanem (LU),en,Bascharage-Sanem (LU)
+stops,stop_name,"","",Bas-Oha,en,Bas-Oha
+stops,stop_name,"","",Basse-Wavre,en,Basse-Wavre
+stops,stop_name,"","",Beauraing,en,Beauraing
+stops,stop_name,"","",Beernem,en,Beernem
+stops,stop_name,"","",Beersel,en,Beersel
+stops,stop_name,"","",Beervelde,en,Beervelde
+stops,stop_name,"","",Begijnendijk,en,Begijnendijk
+stops,stop_name,"","",Beignée,en,Beignée
+stops,stop_name,"","",Bellem,en,Bellem
+stops,stop_name,"","",Belsele,en,Belsele
+stops,stop_name,"","",Berchem-Sainte-Agathe,en,St-Ag./-Berchem-/St-Ag.
+stops,stop_name,"","",Beringen,en,Beringen
+stops,stop_name,"","",Berlaar,en,Berlaar
+stops,stop_name,"","",Bertrange Strassen (LU),en,Bertrange Strassen (LU)
+stops,stop_name,"","",Bertrix,en,Bertrix
+stops,stop_name,"","",Berzée,en,Berzée
+stops,stop_name,"","",Beuzet,en,Beuzet
+stops,stop_name,"","",Beveren,en,Beveren
+stops,stop_name,"","",Beverlo,en,Beverlo
+stops,stop_name,"","",Bierges-Walibi,en,Bierges-Walibi
+stops,stop_name,"","",Bierset-Awans,en,Bierset-Awans
+stops,stop_name,"","",Bilzen,en,Bilzen
+stops,stop_name,"","",Binche,en,Binche
+stops,stop_name,"","",Bissegem,en,Bissegem
+stops,stop_name,"","",Blandain-Frontière,en,Blandain-Frontière
+stops,stop_name,"","",Blankenberge,en,Blankenberge
+stops,stop_name,"","",Blanmont,en,Blanmont
+stops,stop_name,"","",Blaton,en,Blaton
+stops,stop_name,"","",Bléret,en,Bléret
+stops,stop_name,"","",Bockstael,en,Bockstael
+stops,stop_name,"","",Boechout,en,Boechout
+stops,stop_name,"","",Boitsfort,en,Boitsfort/Bosvoorde
+stops,stop_name,"","",Bokrijk,en,Bokrijk
+stops,stop_name,"","",Bomal,en,Bomal
+stops,stop_name,"","",Bonn-Beuel (DE),en,Bonn-Beuel (DE)
+stops,stop_name,"","",Booischot,en,Booischot
+stops,stop_name,"","",Boom,en,Boom
+stops,stop_name,"","",Boondael,en,Boondael/Boondaal
+stops,stop_name,"","",Boortmeerbeek,en,Boortmeerbeek
+stops,stop_name,"","",Bordet,en,Bordet
+stops,stop_name,"","",Bornem,en,Bornem
+stops,stop_name,"","",Bourg-Léopold,en,Bourg Léopold / Leopoldsburg
+stops,stop_name,"","",Boussu,en,Boussu
+stops,stop_name,"","",Bouwel,en,Bouwel
+stops,stop_name,"","",Bracquegnies,en,Bracquegnies
+stops,stop_name,"","",BRAINE-ALLIANCE,en,BRAINE-ALLIANCE
+stops,stop_name,"","",Braine-l'Alleud,en,Braine-l'Alleud
+stops,stop_name,"","",Braine-le-Comte,en,Braine-le-Comte / 's-Gravenbrakel
+stops,stop_name,"","",Breda (NL),en,Breda (NL)
+stops,stop_name,"","",Bressoux,en,Bressoux
+stops,stop_name,"","",Brugelette,en,Brugelette
+stops,stop_name,"","",Bruges,en,Bruges / Brugge
+stops,stop_name,"","",Bruges-Saint-Pierre,en,Bruges-Saint-Pierre / Brugge-Sint-Pieters
+stops,stop_name,"","",Brussels Airport-Zaventem,en,Brussels Airport-Zaventem
+stops,stop_name,"","",Bruxelles-Central,en,Brux.-/ Brus-Centr.
+stops,stop_name,"","",Bruxelles-Chapelle,en,Brux.-Chap/Brus.-Kap.
+stops,stop_name,"","",Bruxelles-Congrès,en,Brussels-Congrès
+stops,stop_name,"","",Bruxelles-Luxembourg,en,Brux./Brus.-Luxemb.
+stops,stop_name,"","",Bruxelles-Midi,en,Brux.-Midi/Brus.-Zuid
+stops,stop_name,"","",Bruxelles-Nord,en,Brux.-Nord/Brus.-Noord
+stops,stop_name,"","",Bruxelles-Ouest,en,Brux.-Ouest/Brus.-West
+stops,stop_name,"","",Bruxelles-Schuman,en,Brux./Brus.-Schuman
+stops,stop_name,"","",Buda,en,Buda
+stops,stop_name,"","",Buggenhout,en,Buggenhout
+stops,stop_name,"","",Buizingen,en,Buizingen
+stops,stop_name,"","",Burst,en,Burst
+stops,stop_name,"","",Callenelle,en,Callenelle
+stops,stop_name,"","",Cambron-Casteau,en,Cambron-Casteau
+stops,stop_name,"","",Capellen (LU),en,Capellen (LU)
+stops,stop_name,"","",Carlsbourg,en,Carlsbourg
+stops,stop_name,"","",Carnières,en,Carnières
+stops,stop_name,"","",Céroux-Mousty,en,Céroux-Mousty
+stops,stop_name,"","",Champagne-Ardenne TGV (FR),en,Champagne-Ardenne TGV (FR)
+stops,stop_name,"","",Chapelle-Dieu,en,Chapelle-Dieu
+stops,stop_name,"","",Chapois,en,Chapois
+stops,stop_name,"","",Charleroi-Central,en,Charleroi-Central
+stops,stop_name,"","",Charleroi-Ouest,en,Charleroi-Ouest / Charleroi-West
+stops,stop_name,"","",Chastre,en,Chastre
+stops,stop_name,"","",Château-de-Seilles,en,Château-de-Seilles
+stops,stop_name,"","",Châtelet,en,Châtelet
+stops,stop_name,"","",Chaudfontaine,en,Chaudfontaine
+stops,stop_name,"","",Chênée,en,Chênée
+stops,stop_name,"","",Ciney,en,Ciney
+stops,stop_name,"","",Clervaux (LU),en,Clervaux (LU)
+stops,stop_name,"","",Comblain-la-Tour,en,Comblain-la-Tour
+stops,stop_name,"","",Comines,en,Comines / Komen
+stops,stop_name,"","",Coo,en,Coo
+stops,stop_name,"","",Couillet,en,Couillet
+stops,stop_name,"","",Courcelles-Motte,en,Courcelles-Motte
+stops,stop_name,"","",Courrière,en,Courrière
+stops,stop_name,"","",Cour-sur-Heure,en,Cour-sur-Heure
+stops,stop_name,"","",Courtrai,en,Courtrai / Kortrijk
+stops,stop_name,"","",Court-Saint-Etienne,en,Court-Saint-Etienne
+stops,stop_name,"","",Couvin,en,Couvin
+stops,stop_name,"","",Coxyde,en,Coxyde / Koksijde
+stops,stop_name,"","",Creil - Bât Voyageurs,en,Creil - Bât Voyageurs
+stops,stop_name,"","",Croix l'Allumette (FR),en,Croix l'Allumette (FR)
+stops,stop_name,"","",Croix Wasquehal (FR),en,Croix Wasquehal (FR)
+stops,stop_name,"","",Dave-Saint-Martin,en,Dave-Saint-Martin
+stops,stop_name,"","",De Hoek,en,De Hoek
+stops,stop_name,"","",Deinze,en,Deinze
+stops,stop_name,"","",Delta,en,Delta
+stops,stop_name,"","",Denderleeuw,en,Denderleeuw
+stops,stop_name,"","",De Pinte,en,De Pinte
+stops,stop_name,"","",Diegem,en,Diegem
+stops,stop_name,"","",Diepenbeek,en,Diepenbeek
+stops,stop_name,"","",Diest,en,Diest
+stops,stop_name,"","",Dilbeek,en,Dilbeek
+stops,stop_name,"","",Dinant,en,Dinant
+stops,stop_name,"","",Dippach-Reckange (LU),en,Dippach-Reckange (LU)
+stops,stop_name,"","",Dixmude,en,Dixmude/Diksmuide
+stops,stop_name,"","",Dolhain-Gileppe,en,Dolhain-Gileppe
+stops,stop_name,"","",Drauffelt (LU),en,Drauffelt (LU)
+stops,stop_name,"","",Duffel,en,Duffel
+stops,stop_name,"","",Duinbergen,en,Duinbergen
+stops,stop_name,"","",Ecaussinnes,en,Ecaussinnes
+stops,stop_name,"","",Ede,en,Ede
+stops,stop_name,"","",Eeklo,en,Eeklo
+stops,stop_name,"","",Eichem,en,Eichem
+stops,stop_name,"","",Eijsden (NL),en,Eijsden (NL)
+stops,stop_name,"","",Eine,en,Eine
+stops,stop_name,"","",Eke-Nazareth,en,Eke-Nazareth
+stops,stop_name,"","",Ekeren,en,Ekeren
+stops,stop_name,"","",Enghien,en,Enghien / Edingen
+stops,stop_name,"","",Engis,en,Engis
+stops,stop_name,"","",Eppegem,en,Eppegem
+stops,stop_name,"","",Erbisoeul,en,Erbisoeul
+stops,stop_name,"","",Erembodegem,en,Erembodegem
+stops,stop_name,"","",Ernage,en,Ernage
+stops,stop_name,"","",Erpe-Mere,en,Erpe-Mere
+stops,stop_name,"","",Erps-Kwerps,en,Erps-Kwerps
+stops,stop_name,"","",Erquelinnes,en,Erquelinnes
+stops,stop_name,"","",ERQUELINNES-FRONTIERE,en,ERQUELINNES-FRONTIERE
+stops,stop_name,"","",Erquelinnes-Village,en,Erquelinnes-Village / Erquelinnes-Dorp
+stops,stop_name,"","",Esneux,en,Esneux
+stops,stop_name,"","",ESPLECHIN-FRONTIERE,en,ESPLECHIN-FRONTIERE
+stops,stop_name,"","",Essene Lombeek,en,Essene-Lombeek
+stops,stop_name,"","",Essen,en,Essen
+stops,stop_name,"","",Essen-Grens,en,Essen-Grens
+stops,stop_name,"","",Ettelbruck (LU),en,Ettelbruck (LU)
+stops,stop_name,"","",Etterbeek,en,Etterbeek
+stops,stop_name,"","",Eupen,en,Eupen
+stops,stop_name,"","",Evere,en,Evere
+stops,stop_name,"","",Evergem,en,Evergem
+stops,stop_name,"","",Eygelshoven markt,en,Eygelshoven markt
+stops,stop_name,"","",Ezemaal,en,Ezemaal
+stops,stop_name,"","",Familleureux,en,Familleureux
+stops,stop_name,"","",Farciennes,en,Farciennes
+stops,stop_name,"","",Faux,en,Faux
+stops,stop_name,"","",Fexhe-le-Haut-Clocher,en,Fexhe-le-Haut-Clocher
+stops,stop_name,"","",Flawinne,en,Flawinne
+stops,stop_name,"","",Flémalle-Grande,en,Flémalle-Grande
+stops,stop_name,"","",Flémalle-Haute,en,Flémalle-Haute
+stops,stop_name,"","",Fleurus,en,Fleurus
+stops,stop_name,"","",Floreffe,en,Floreffe
+stops,stop_name,"","",Florenville,en,Florenville
+stops,stop_name,"","",Florival,en,Florival
+stops,stop_name,"","",Fontaine-Valmont,en,Fontaine-Valmont
+stops,stop_name,"","",Genly,en,Genly
+stops,stop_name,"","",Gentbrugge,en,Gentbrugge
+stops,stop_name,"","",Genval,en,Genval
+stops,stop_name,"","",Germoir,en,Germoir / Mouterij
+stops,stop_name,"","",Ghlin,en,Ghlin
+stops,stop_name,"","",Glons,en,Glons / Glaaien
+stops,stop_name,"","",Godarville,en,Godarville
+stops,stop_name,"","",Godinne,en,Godinne
+stops,stop_name,"","",GOEBELSMUHLE,en,GOEBELSMUHLE
+stops,stop_name,"","",Gontrode,en,Gontrode
+stops,stop_name,"","",Gouvy,en,Gouvy
+stops,stop_name,"","",Gouvy-Frontière,en,Gouvy-Frontière
+stops,stop_name,"","",Gouy-lez-Piéton,en,Gouy-lez-Piéton
+stops,stop_name,"","",Graide,en,Graide
+stops,stop_name,"","",Grammont,en,Grammont / Geraardsbergen
+stops,stop_name,"","",Grand-Bigard,en,Groot-Bijgaarden
+stops,stop_name,"","",Groenendaal,en,Groenendaal
+stops,stop_name,"","",Grupont,en,Grupont
+stops,stop_name,"","",Haacht,en,Haacht
+stops,stop_name,"","",Haaltert,en,Haaltert
+stops,stop_name,"","",Habay,en,Habay
+stops,stop_name,"","",Hainin,en,Hainin
+stops,stop_name,"","",Halanzy,en,Halanzy
+stops,stop_name,"","",Hal,en,Hal / Halle
+stops,stop_name,"","",Hambos,en,Hambos
+stops,stop_name,"","",Hamoir,en,Hamoir
+stops,stop_name,"","",Hamont,en,Hamont
+stops,stop_name,"","",Ham-sur-Heure,en,Ham-sur-Heure
+stops,stop_name,"","",Hansbeke,en,Hansbeke
+stops,stop_name,"","",Harchies,en,Harchies
+stops,stop_name,"","",Harelbeke,en,Harelbeke
+stops,stop_name,"","",Haren,en,Haren
+stops,stop_name,"","",Haren-Sud,en,Haren-Sud / Haren-Zuid
+stops,stop_name,"","",Hasselt,en,Hasselt
+stops,stop_name,"","",Haute-Flône,en,Haute-Flône
+stops,stop_name,"","",Haversin,en,Haversin
+stops,stop_name,"","",Havré,en,Havré
+stops,stop_name,"","",Heerlen,en,Heerlen
+stops,stop_name,"","",Heide,en,Heide
+stops,stop_name,"","",Heist,en,Heist
+stops,stop_name,"","",Heist-op-den-Berg,en,Heist-op-den-Berg
+stops,stop_name,"","",Heizijde,en,Heizijde
+stops,stop_name,"","",Hellemmes (FR),en,Hellemmes (FR)
+stops,stop_name,"","",Hemiksem,en,Hemiksem
+stops,stop_name,"","",Hennuyères,en,Hennuyères
+stops,stop_name,"","",Herentals,en,Herentals
+stops,stop_name,"","",Herent,en,Herent
+stops,stop_name,"","",Hergenrath,en,Hergenrath
+stops,stop_name,"","",Hergenrath-Frontière,en,Hergenrath-Frontière
+stops,stop_name,"","",Herne,en,Herne
+stops,stop_name,"","",Herseaux,en,Herseaux
+stops,stop_name,"","",Herstal,en,Herstal
+stops,stop_name,"","",Herzele,en,Herzele
+stops,stop_name,"","",Herzogenrath,en,Herzogenrath
+stops,stop_name,"","",Heusden,en,Heusden
+stops,stop_name,"","",Hever,en,Hever
+stops,stop_name,"","",Heverlee,en,Heverlee
+stops,stop_name,"","",Hillegem,en,Hillegem
+stops,stop_name,"","",Hoboken-Polder,en,Hoboken-Polder
+stops,stop_name,"","",Hoeilaart,en,Hoeilaart
+stops,stop_name,"","",Hofstade,en,Hofstade
+stops,stop_name,"","",Holleken,en,Holleken
+stops,stop_name,"","",Hollerich (LU),en,Hollerich (LU)
+stops,stop_name,"","",Hony,en,Hony
+stops,stop_name,"","",Houraing,en,Houraing
+stops,stop_name,"","",Hourpes,en,Hourpes
+stops,stop_name,"","",Houyet,en,Houyet
+stops,stop_name,"","",Hove,en,Hove
+stops,stop_name,"","",Huizingen,en,Huizingen
+stops,stop_name,"","",Huy,en,Huy / Hoei
+stops,stop_name,"","",Iddergem,en,Iddergem
+stops,stop_name,"","",Idegem,en,Idegem
+stops,stop_name,"","",Ingelmunster,en,Ingelmunster
+stops,stop_name,"","",Izegem,en,Izegem
+stops,stop_name,"","",Jambes,en,Jambes
+stops,stop_name,"","",Jambes-Est,en,Jambes-Est / Jambes-Oost
+stops,stop_name,"","",Jamioulx,en,Jamioulx
+stops,stop_name,"","",Jemappes,en,Jemappes
+stops,stop_name,"","",Jemeppe-sur-Meuse,en,Jemeppe-sur-Meuse
+stops,stop_name,"","",Jemeppe-sur-Sambre,en,Jemeppe-sur-Sambre
+stops,stop_name,"","",Jette,en,Jette
+stops,stop_name,"","",Jurbise,en,Jurbise / Jurbeke
+stops,stop_name,"","",Juslenville,en,Juslenville
+stops,stop_name,"","",Kalmthout,en,Kalmthout
+stops,stop_name,"","",Kapellen,en,Kapellen
+stops,stop_name,"","",Kapelle-op-den-Bos,en,Kapelle-op-den-Bos
+stops,stop_name,"","",Kautenbach (LU),en,Kautenbach (LU)
+stops,stop_name,"","",Kessel,en,Kessel
+stops,stop_name,"","",Kiewit,en,Kiewit
+stops,stop_name,"","",Kijkuit,en,Kijkuit
+stops,stop_name,"","",Kleinbettingen (LU),en,Kleinbettingen (LU)
+stops,stop_name,"","",Knokke,en,Knokke
+stops,stop_name,"","",Koblenz Hbf (DE),en,Koblenz Hbf (DE)
+stops,stop_name,"","",KOLN-EHRENFELD,en,KOLN-EHRENFELD
+stops,stop_name,"","",Köln Hbf (DE),en,Köln Hbf (DE)
+stops,stop_name,"","",KOLN SUD,en,KOLN SUD
+stops,stop_name,"","",Kontich-Lint,en,Kontich-Lint
+stops,stop_name,"","",Kortemark,en,Kortemark
+stops,stop_name,"","",Kortenberg,en,Kortenberg
+stops,stop_name,"","",Kwatrecht,en,Kwatrecht
+stops,stop_name,"","",Labuissière,en,Labuissière
+stops,stop_name,"","",La Hulpe,en,La Hulpe / Terhulpen
+stops,stop_name,"","",Forchies,en,Forchies
+stops,stop_name,"","",Forest-Est,en,Forest-Est / Vorst-Oost
+stops,stop_name,"","",Forest-Midi,en,Forest-Midi / Vorst-Zuid
+stops,stop_name,"","",Forrières,en,Forrières
+stops,stop_name,"","",Frameries,en,Frameries
+stops,stop_name,"","",Franchimont,en,Franchimont
+stops,stop_name,"","",Franière,en,Franière
+stops,stop_name,"","",Frankfurt Flugh (DE),en,Frankfurt Flugh (DE)
+stops,stop_name,"","",Frankfurt Main (DE),en,Frankfurt Main (DE)
+stops,stop_name,"","",Froyennes,en,Froyennes
+stops,stop_name,"","",Furnes,en,Furnes / Veurne
+stops,stop_name,"","",Gammerages,en,Gammerages / Galmaarden
+stops,stop_name,"","",Gand-Dampoort,en,Gand-Dampoort / Gent-Dampoort
+stops,stop_name,"","",Gand-Saint-Pierre,en,Gand-Saint-Pierre / Gent-Sint-Pieters
+stops,stop_name,"","",Gastuche,en,Gastuche
+stops,stop_name,"","",Gavere-Asper,en,Gavere-Asper
+stops,stop_name,"","",Gedinne,en,Gedinne
+stops,stop_name,"","",Geel,en,Geel
+stops,stop_name,"","",Gembloux,en,Gembloux
+stops,stop_name,"","",Gendron-Celles,en,Gendron-Celles
+stops,stop_name,"","",Genk,en,Genk
+stops,stop_name,"","",La Louvière-Centre,en,La Louvière-Centre
+stops,stop_name,"","",La Louvière-Sud,en,La Louvière-Sud / La Louvière-Zuid
+stops,stop_name,"","",Lamadeleine (LU),en,Lamadeleine (LU)
+stops,stop_name,"","",Landegem,en,Landegem
+stops,stop_name,"","",Landelies,en,Landelies
+stops,stop_name,"","",Landen,en,Landen
+stops,stop_name,"","",Landgraaf,en,Landgraaf
+stops,stop_name,"","",Landskouter,en,Landskouter
+stops,stop_name,"","",Langdorp,en,Langdorp
+stops,stop_name,"","",La Panne,en,La Panne / De Panne
+stops,stop_name,"","",La Roche (brabant),en,La Roche(Brabant)
+stops,stop_name,"","",Lebbeke,en,Lebbeke
+stops,stop_name,"","",Le Campinaire,en,Le Campinaire
+stops,stop_name,"","",Lede,en,Lede
+stops,stop_name,"","",Leignon,en,Leignon
+stops,stop_name,"","",Leman,en,Leman
+stops,stop_name,"","",Lembeek,en,Lembeek
+stops,stop_name,"","",Lens,en,Lens
+stops,stop_name,"","",Lessines,en,Lessines / Lessen
+stops,stop_name,"","",Leudelange (LU),en,Leudelange (LU)
+stops,stop_name,"","",Leuze,en,Leuze
+stops,stop_name,"","",Leval,en,Leval
+stops,stop_name,"","",Lezennes (FR),en,Lezennes (FR)
+stops,stop_name,"","",Libramont,en,Libramont
+stops,stop_name,"","",Lichtervelde,en,Lichtervelde
+stops,stop_name,"","",Liedekerke,en,Liedekerke
+stops,stop_name,"","",Liège-Carré,en,Liège-Carré / Luik-Carré
+stops,stop_name,"","",Liège-Guillemins,en,Liège-Guillemins / Luik-Guillemins
+stops,stop_name,"","",Liège-Saint-Lambert,en,Liège-Saint-Lambert / Luik-Sint-Lambertus
+stops,stop_name,"","",Lierde,en,Lierde
+stops,stop_name,"","",Lierre,en,Lierre / Lier
+stops,stop_name,"","",Liers,en,Liers
+stops,stop_name,"","",Ligny,en,Ligny
+stops,stop_name,"","",Lille Europe (FR),en,Lille Europe (FR)
+stops,stop_name,"","",Lille Flandres (FR),en,Lille Flandres (FR)
+stops,stop_name,"","",Lillois,en,Lillois
+stops,stop_name,"","",Limal,en,Limal
+stops,stop_name,"","",Limburg Sud (DE),en,Limburg Sud (DE)
+stops,stop_name,"","",Linkebeek,en,Linkebeek
+stops,stop_name,"","",Linz Hbf (AT),en,Linz Hbf (AT)
+stops,stop_name,"","",Lissewege,en,Lissewege
+stops,stop_name,"","",Lobbes,en,Lobbes
+stops,stop_name,"","",Lodelinsart,en,Lodelinsart
+stops,stop_name,"","",Lokeren,en,Lokeren
+stops,stop_name,"","",Lommel,en,Lommel
+stops,stop_name,"","",Londerzeel,en,Londerzeel
+stops,stop_name,"","",Lonzée,en,Lonzée
+stops,stop_name,"","",LORRAINE TGV,en,LORRAINE TGV
+stops,stop_name,"","",Lot,en,Lot
+stops,stop_name,"","",Louvain,en,Louvain / Leuven
+stops,stop_name,"","",Louvain-la-Neuve,en,Louvain-la-Neuve
+stops,stop_name,"","",Lustin,en,Lustin
+stops,stop_name,"","",Luttre,en,Luttre
+stops,stop_name,"","",Luxembourg (LU),en,Luxembourg (LU)
+stops,stop_name,"","",Maastricht (NL),en,Maastricht (NL)
+stops,stop_name,"","",Maastricht Randwijck (NL),en,Maastricht Randwijck (NL)
+stops,stop_name,"","",Maffle,en,Maffle
+stops,stop_name,"","",Mainz Hbf (DE),en,Mainz Hbf (DE)
+stops,stop_name,"","",Malderen,en,Malderen
+stops,stop_name,"","",Malines,en,Malines / Mechelen
+stops,stop_name,"","",Malines-Nekkerspoel,en,Malines-Nekkerspoel / Mechelen-Nekkerspoel
+stops,stop_name,"","",Mamer (LU),en,Mamer (LU)
+stops,stop_name,"","",Mamer-Lycée (LU),en,Mamer-Lycée (LU)
+stops,stop_name,"","",Manage,en,Manage
+stops,stop_name,"","",Marbehan,en,Marbehan
+stops,stop_name,"","",Marche-en-Famenne,en,Marche-en-Famenne
+stops,stop_name,"","",Marche-les-Dames,en,Marche-les-Dames
+stops,stop_name,"","",Marche-lez-Ecaussinnes,en,Marche-lez-Ecaussinnes
+stops,stop_name,"","",Marchienne-au-Pont,en,Marchienne-au-Pont
+stops,stop_name,"","",Marchienne-Zone,en,Marchienne-Zone
+stops,stop_name,"","",Maria-Aalter,en,Maria-Aalter
+stops,stop_name,"","",Mariembourg,en,Mariembourg
+stops,stop_name,"","",Marloie,en,Marloie
+stops,stop_name,"","",Masnuy-Saint-Pierre,en,Masnuy-Saint-Pierre
+stops,stop_name,"","",Maubeuge (FR),en,Maubeuge (FR)
+stops,stop_name,"","",Maubray,en,Maubray
+stops,stop_name,"","",Mazy,en,Mazy
+stops,stop_name,"","",Meerssen,en,Meerssen
+stops,stop_name,"","",Meiser,en,Meiser
+stops,stop_name,"","",Melkouwen,en,Melkouwen
+stops,stop_name,"","",Melle,en,Melle
+stops,stop_name,"","",Melreux-Hotton,en,Melreux-Hotton
+stops,stop_name,"","",Melsele,en,Melsele
+stops,stop_name,"","",Menin,en,Menin / Menen
+stops,stop_name,"","",Merchtem,en,Merchtem
+stops,stop_name,"","",Merelbeke,en,Merelbeke
+stops,stop_name,"","",Mérode,en,Mérode/Merode
+stops,stop_name,"","",Mersch (LU),en,Mersch (LU)
+stops,stop_name,"","",Méry,en,Méry
+stops,stop_name,"","",Messancy,en,Messancy
+stops,stop_name,"","",Mévergnies-Attre,en,Mévergnies-Attre
+stops,stop_name,"","",Michelau (LU),en,Michelau (LU)
+stops,stop_name,"","",Milmort,en,Milmort
+stops,stop_name,"","",Moensberg,en,Moensberg
+stops,stop_name,"","",Mol,en,Mol
+stops,stop_name,"","",Mollem,en,Mollem
+stops,stop_name,"","",Momalle,en,Momalle
+stops,stop_name,"","",Mons,en,Mons / Bergen
+stops,stop_name,"","",MONTABAUR,en,MONTABAUR
+stops,stop_name,"","",Mont-Saint-Guibert,en,Mont-Saint-Guibert
+stops,stop_name,"","",Moortsele,en,Moortsele
+stops,stop_name,"","",Morlanwelz,en,Morlanwelz
+stops,stop_name,"","",Mortsel,en,Mortsel
+stops,stop_name,"","",Mortsel-Liersesteenweg,en,Mortsel-Liersesteenweg
+stops,stop_name,"","",Mortsel-Oude God,en,Mortsel-Oude God
+stops,stop_name,"","",Mouscron,en,Mouscron / Moeskroen
+stops,stop_name,"","",Mouscron-Frontière,en,Mouscron-Frontière
+stops,stop_name,"","",Moustier,en,Moustier
+stops,stop_name,"","",Muizen,en,Muizen
+stops,stop_name,"","",München Ost (DE),en,München Ost (DE)
+stops,stop_name,"","",Munkzwalm,en,Munkzwalm
+stops,stop_name,"","",Namêche,en,Namêche
+stops,stop_name,"","",Namur,en,Namur / Namen
+stops,stop_name,"","",Naninne,en,Naninne
+stops,stop_name,"","",Natoye,en,Natoye
+stops,stop_name,"","",Neerpelt,en,Neerpelt
+stops,stop_name,"","",Neerwinden,en,Neerwinden
+stops,stop_name,"","",Nessonvaux,en,Nessonvaux
+stops,stop_name,"","",Neufchâteau,en,Neufchâteau
+stops,stop_name,"","",Neufvilles,en,Neufvilles
+stops,stop_name,"","",Niel,en,Niel
+stops,stop_name,"","",Nieuwkerken-Waas,en,Nieuwkerken-Waas
+stops,stop_name,"","",Nijlen,en,Nijlen
+stops,stop_name,"","",Nimy,en,Nimy
+stops,stop_name,"","",Ninove,en,Ninove
+stops,stop_name,"","",Nivelles,en,Nivelles / Nijvel
+stops,stop_name,"","",Noorderkempen (Brecht),en,Noorderkempen (Brecht)
+stops,stop_name,"","",Nossegem,en,Nossegem
+stops,stop_name,"","",Obaix-Buzet,en,Obaix-Buzet
+stops,stop_name,"","",Obourg,en,Obourg
+stops,stop_name,"","",Okegem,en,Okegem
+stops,stop_name,"","",Olen,en,Olen
+stops,stop_name,"","",Oostkamp,en,Oostkamp
+stops,stop_name,"","",Opwijk,en,Opwijk
+stops,stop_name,"","",Ostende,en,Ostende / Oostende
+stops,stop_name,"","",Ottignies,en,Ottignies
+stops,stop_name,"","",Oudegem,en,Oudegem
+stops,stop_name,"","",Oud-Heverlee,en,Oud-Heverlee
+stops,stop_name,"","",Ougrée,en,Ougrée
+stops,stop_name,"","",Overpelt,en,Overpelt
+stops,stop_name,"","",Paliseul,en,Paliseul
+stops,stop_name,"","",Papignies,en,Papignies
+stops,stop_name,"","",Paris Nord (FR),en,Paris Nord (FR)
+stops,stop_name,"","",Pécrot,en,Pécrot
+stops,stop_name,"","",Pepinster-Cité,en,Pepinster-Cité
+stops,stop_name,"","",Pepinster,en,Pepinster
+stops,stop_name,"","",Péruwelz,en,Péruwelz
+stops,stop_name,"","",Pétange (LU),en,Pétange (LU)
+stops,stop_name,"","",Pfaffenthal-Kirchberg (LU),en,Pfaffenthal-Kirchberg (LU)
+stops,stop_name,"","",Philippeville,en,Philippeville
+stops,stop_name,"","",Piéton,en,Piéton
+stops,stop_name,"","",Poix-Saint-Hubert,en,Poix-Saint-Hubert
+stops,stop_name,"","",Pont-à-Celles,en,Pont-à-Celles
+stops,stop_name,"","",Pont de Bois (FR),en,Pont de Bois (FR)
+stops,stop_name,"","",Pont-de-Seraing,en,Pont-de-Seraing
+stops,stop_name,"","",Poperinge,en,Poperinge
+stops,stop_name,"","",Poulseur,en,Poulseur
+stops,stop_name,"","",Profondsart,en,Profondsart
+stops,stop_name,"","",Pry,en,Pry
+stops,stop_name,"","",Puurs,en,Puurs
+stops,stop_name,"","",Quaregnon,en,Quaregnon
+stops,stop_name,"","",Quévy,en,Quévy
+stops,stop_name,"","",QUEVY-FRONTIERE,en,QUEVY-FRONTIERE
+stops,stop_name,"","",Quiévrain,en,Quiévrain
+stops,stop_name,"","",Rebaix,en,Rebaix
+stops,stop_name,"","",Remicourt,en,Remicourt
+stops,stop_name,"","",Renaix,en,Renaix / Ronse
+stops,stop_name,"","",Rhisnes,en,Rhisnes
+stops,stop_name,"","",Rhode-Saint-Genèse,en,Rhode-St-Gen./St.-Gen.-Rode
+stops,stop_name,"","",Rivage,en,Rivage
+stops,stop_name,"","",Rixensart,en,Rixensart
+stops,stop_name,"","",Rochefort-Jemelle,en,Rochefort-Jemelle
+stops,stop_name,"","",Rodange (LU),en,Rodange (LU)
+stops,stop_name,"","",Ronet,en,Ronet
+stops,stop_name,"","",Roosendaal (NL),en,Roosendaal (NL)
+stops,stop_name,"","",Rosenheim (DE),en,Rosenheim (DE)
+stops,stop_name,"","",Rotterdam Centraal (NL),en,Rotterdam Centraal (NL)
+stops,stop_name,"","",Roubaix (FR),en,Roubaix (FR)
+stops,stop_name,"","",Roulers,en,Roeselare / Roulers
+stops,stop_name,"","",Roux,en,Roux
+stops,stop_name,"","",Ruisbroek,en,Ruisbroek
+stops,stop_name,"","",Ruisbroek-Sauvegarde,en,Ruisbroek-Sauvegarde
+stops,stop_name,"","",Saint-Denis-Bovesse,en,Saint-Denis-Bovesse
+stops,stop_name,"","",Saint-Ghislain,en,Saint-Ghislain
+stops,stop_name,"","",Saint-Job,en,Saint-Job / Sint-Job
+stops,stop_name,"","",Saint-Nicolas,en,Saint-Nicolas / Sint-Niklaas
+stops,stop_name,"","",Saint-Trond,en,Saint-Trond / Sint-Truiden
+stops,stop_name,"","",Salzburg Hbf (AT),en,Salzburg Hbf (AT)
+stops,stop_name,"","",Sart-Bernard,en,Sart-Bernard
+stops,stop_name,"","",Schaerbeek,en,Schaerbeek / Schaarbeek
+stops,stop_name,"","",Scheldewindeke,en,Scheldewindeke
+stops,stop_name,"","",Schellebelle,en,Schellebelle
+stops,stop_name,"","",Schelle,en,Schelle
+stops,stop_name,"","",Schendelbeke,en,Schendelbeke
+stops,stop_name,"","",Schoonaarde,en,Schoonaarde
+stops,stop_name,"","",Schouweiler (LU),en,Schouweiler (LU)
+stops,stop_name,"","",Schulen,en,Schulen
+stops,stop_name,"","",Sclaigneaux,en,Sclaigneaux
+stops,stop_name,"","",Sclessin,en,Sclessin
+stops,stop_name,"","",Seraing,en,Seraing
+stops,stop_name,"","",Serskamp,en,Serskamp
+stops,stop_name,"","",Siegburg (DE),en,Siegburg (DE)
+stops,stop_name,"","",Silly,en,Silly / Opzullik
+stops,stop_name,"","",Simonis,en,Simonis
+stops,stop_name,"","",Sinaai,en,Sinaai
+stops,stop_name,"","",Sint-Denijs-Boekel,en,Sint-Denijs-Boekel
+stops,stop_name,"","",Sint-Gillis,en,Sint-Gillis
+stops,stop_name,"","",Sint-Joris-Weert,en,Sint-Joris-Weert
+stops,stop_name,"","",Sint-Katelijne-Waver,en,Sint-Katelijne-Waver
+stops,stop_name,"","",Sint-Mariaburg,en,Sint-Mariaburg
+stops,stop_name,"","",Sint-Martens-Bodegem,en,Sint-Martens-Bodegem
+stops,stop_name,"","",Sleidinge,en,Sleidinge
+stops,stop_name,"","",Soignies,en,Soignies / Zinnik
+stops,stop_name,"","",Solre-sur-Sambre,en,Solre-sur-Sambre
+stops,stop_name,"","",Spa,en,Spa
+stops,stop_name,"","",Spa-Géronstère,en,Spa-Géronstère
+stops,stop_name,"","",Statte,en,Statte
+stops,stop_name,"","",Sterpenich-Frontière,en,Sterpenich-Frontière
+stops,stop_name,"","",Stockem,en,Stockem
+stops,stop_name,"","",Strasbourg (FR),en,Strasbourg (FR)
+stops,stop_name,"","",Sy,en,Sy
+stops,stop_name,"","",Tamines,en,Tamines
+stops,stop_name,"","",Tamise,en,Tamise / Temse
+stops,stop_name,"","",Terhagen,en,Terhagen
+stops,stop_name,"","",Termonde,en,Termonde / Dendermonde
+stops,stop_name,"","",Ternat,en,Ternat
+stops,stop_name,"","",Testelt,en,Testelt
+stops,stop_name,"","",Theux,en,Theux
+stops,stop_name,"","",Thieu,en,Thieu
+stops,stop_name,"","",Thuin,en,Thuin
+stops,stop_name,"","",Thulin,en,Thulin
+stops,stop_name,"","",Tielen,en,Tielen
+stops,stop_name,"","",Tielt,en,Tielt
+stops,stop_name,"","",Tilff,en,Tilff
+stops,stop_name,"","",Tilly,en,Tilly
+stops,stop_name,"","",Tirlemont,en,Tirlemont / Tienen
+stops,stop_name,"","",Tollembeek,en,Tollembeek
+stops,stop_name,"","",Tongres,en,Tongres / Tongeren
+stops,stop_name,"","",Torhout,en,Torhout
+stops,stop_name,"","",Tourcoing (FR),en,Tourcoing (FR)
+stops,stop_name,"","",Tour-et-Taxis,en,Tour-et-Taxis / Thurn-en-Taxis
+stops,stop_name,"","",Tournai,en,Tournai / Doornik
+stops,stop_name,"","",Trois-Ponts,en,Trois-Ponts
+stops,stop_name,"","",Troisvierges (LU),en,Troisvierges (LU)
+stops,stop_name,"","",Tronchiennes,en,Tronchiennes / Drongen
+stops,stop_name,"","",Trooz,en,Trooz
+stops,stop_name,"","",Tubize,en,Tubize / Tubeke
+stops,stop_name,"","",Watermael,nl,Watermaal
+stops,stop_name,"","",Ascq (FR),nl,Ascq (FR)
+stops,stop_name,"","",Ghlin,nl,Ghlin
+stops,stop_name,"","",Wavre,nl,Waver
+stops,stop_name,"","",Arlon,nl,Aarlen
+stops,stop_name,"","",Weerde,nl,Weerde
+stops,stop_name,"","",Archennes,nl,Eerken
+stops,stop_name,"","",Namêche,nl,Namêche
+stops,stop_name,"","",Welkenraedt,nl,Welkenraedt
+stops,stop_name,"","",Arcades,nl,Arcaden
+stops,stop_name,"","",Marbehan,nl,Marbehan
+stops,stop_name,"","",Welle,nl,Welle
+stops,stop_name,"","",Appelterre,nl,Appelterre
+stops,stop_name,"","",Wervik,nl,Wervik
+stops,stop_name,"","",Anzegem,nl,Anzegem
+stops,stop_name,"","",Ettelbruck (LU),nl,Ettelbruck (LU)
+stops,stop_name,"","",Wespelaar-Tildonk,nl,Wespelaar-Tildonk
+stops,stop_name,"","",Anvers-Sud,nl,Antwerpen-Zuid
+stops,stop_name,"","",Glons,nl,Glaaien
+stops,stop_name,"","",Wetteren,nl,Wetteren
+stops,stop_name,"","",Anvers-Noorderdokken,nl,Antwerpen-Noorderdokken
+stops,stop_name,"","",Wevelgem,nl,Wevelgem
+stops,stop_name,"","",Anvers-Luchtbal,nl,Antwerpen-Luchtbal
+stops,stop_name,"","",Fraipont,nl,Fraipont
+stops,stop_name,"","",Wezemaal,nl,Wezemaal
+stops,stop_name,"","",Anvers-Linkeroever,nl,Antwerpen-Linkeroever
+stops,stop_name,"","",Manage,nl,Manage
+stops,stop_name,"","",Wichelen,nl,Wichelen
+stops,stop_name,"","",Anvers-Est,nl,Antwerpen-Oost
+stops,stop_name,"","",Wien HBF (AT),nl,Wien HBF (AT)
+stops,stop_name,"","",Anvers-Dam,nl,Antwerpen-Dam
+stops,stop_name,"","",Namur,nl,Namen
+stops,stop_name,"","",Wien Meidling (AT),nl,Wien Meidling (AT)
+stops,stop_name,"","",Anvers-Central,nl,Antwerpen-Centraal
+stops,stop_name,"","",Godarville,nl,Godarville
+stops,stop_name,"","",Wijgmaal,nl,Wijgmaal
+stops,stop_name,"","",Anvers-Berchem,nl,Antwerpen-Berchem
+stops,stop_name,"","",Wildert,nl,Wildert
+stops,stop_name,"","",Antoing,nl,Antoing
+stops,stop_name,"","",Essen,nl,Essen
+stops,stop_name,"","",Willebroek,nl,Willebroek
+stops,stop_name,"","",Ans,nl,Ans
+stops,stop_name,"","",Mamer-Lycée (LU),nl,Mamer-Lycée (LU)
+stops,stop_name,"","",Wilwerwiltz (LU),nl,Wilwerwiltz (LU)
+stops,stop_name,"","",Anseremme,nl,Anseremme
+stops,stop_name,"","",Wolfstee,nl,Wolfstee
+stops,stop_name,"","",Annappes (FR),nl,Annappes (FR)
+stops,stop_name,"","",Wondelgem,nl,Wondelgem
+stops,stop_name,"","",Angleur,nl,Angleur
+stops,stop_name,"","",Ypres,nl,Ieper
+stops,stop_name,"","",Turnhout,en,Turnhout
+stops,stop_name,"","",Uccle-Calevoet,en,Uccle-Calevoet / Ukkel-Kalevoet
+stops,stop_name,"","",Uccle-Stalle,en,Uccle- / Ukkel-Stalle
+stops,stop_name,"","",Valkenburg,en,Valkenburg
+stops,stop_name,"","",Veltem,en,Veltem
+stops,stop_name,"","",Vertrijk,en,Vertrijk
+stops,stop_name,"","",Verviers-Central,en,Verviers-Central / Verviers-Centraal
+stops,stop_name,"","",Verviers-Palais,en,Verviers-Palais / Verviers-Paleis
+stops,stop_name,"","",Viane-Moerbeke,en,Viane-Moerbeke
+stops,stop_name,"","",Vichte,en,Vichte
+stops,stop_name,"","",Vielsalm,en,Vielsalm
+stops,stop_name,"","",Vijfhuizen,en,Vijfhuizen
+stops,stop_name,"","",Ville-Pommeroeul,en,Ville-Pommeroeul
+stops,stop_name,"","",Villers-la-Ville,en,Villers-la-Ville
+stops,stop_name,"","",Vilvorde,en,Vilvorde / Vilvoorde
+stops,stop_name,"","",Virton,en,Virton
+stops,stop_name,"","",Visé,en,Visé / Wezet
+stops,stop_name,"","",Visé-Frontière,en,Visé-Frontière
+stops,stop_name,"","",Vivier D'Oie,en,Vivier D'Oie / Diesdelle
+stops,stop_name,"","",Viville,en,Viville
+stops,stop_name,"","",Voroux,en,Voroux
+stops,stop_name,"","",Waarschoot,en,Waarschoot
+stops,stop_name,"","",Walcourt,en,Walcourt
+stops,stop_name,"","",Waregem,en,Waregem
+stops,stop_name,"","",Waremme,en,Waremme / Borgworm
+stops,stop_name,"","",Waterloo,en,Waterloo
+stops,stop_name,"","",Watermael,en,Watermael / Watermaal
+stops,stop_name,"","",Wavre,en,Wavre / Waver
+stops,stop_name,"","",Weerde,en,Weerde
+stops,stop_name,"","",Welkenraedt,en,Welkenraedt
+stops,stop_name,"","",Welle,en,Welle
+stops,stop_name,"","",Wervik,en,Wervik
+stops,stop_name,"","",Wespelaar-Tildonk,en,Wespelaar-Tildonk
+stops,stop_name,"","",Wetteren,en,Wetteren
+stops,stop_name,"","",Wevelgem,en,Wevelgem
+stops,stop_name,"","",Wezemaal,en,Wezemaal
+stops,stop_name,"","",Wichelen,en,Wichelen
+stops,stop_name,"","",Wien HBF (AT),en,Wien HBF (AT)
+stops,stop_name,"","",Wien Meidling (AT),en,Wien Meidling (AT)
+stops,stop_name,"","",Wijgmaal,en,Wijgmaal
+stops,stop_name,"","",Wildert,en,Wildert
+stops,stop_name,"","",Willebroek,en,Willebroek
+stops,stop_name,"","",Wilwerwiltz (LU),en,Wilwerwiltz (LU)
+stops,stop_name,"","",Wolfstee,en,Wolfstee
+stops,stop_name,"","",Wondelgem,en,Wondelgem
+stops,stop_name,"","",Ypres,en,Ypres / Ieper
+stops,stop_name,"","",Yves-Gomezée,en,Yves-Gomezée
+stops,stop_name,"","",Yvoir,en,Yvoir
+stops,stop_name,"","",Zandbergen,en,Zandbergen
+stops,stop_name,"","",Zaventem,en,Zaventem
+stops,stop_name,"","",Zedelgem,en,Zedelgem
+stops,stop_name,"","",Zeebrugge-Dorp,en,Zeebrugge-Dorp
+stops,stop_name,"","",Zeebrugge-Strand,en,Zeebrugge-Strand
+stops,stop_name,"","",Zele,en,Zele
+stops,stop_name,"","",Zellik,en,Zellik
+stops,stop_name,"","",Zichem,en,Zichem
+stops,stop_name,"","",Zingem,en,Zingem
+stops,stop_name,"","",Zolder,en,Zolder
+stops,stop_name,"","",Zonhoven,en,Zonhoven
+stops,stop_name,"","",Zottegem,en,Zottegem
+stops,stop_name,"","",Zwijndrecht,en,Zwijndrecht
+stops,stop_name,"","",Gontrode,nl,Gontrode
+stops,stop_name,"","",Waremme,nl,Borgworm
+stops,stop_name,"","",Assesse,nl,Assesse
+stops,stop_name,"","",Waterloo,nl,Waterloo
+stops,stop_name,"","",Asse,nl,Asse
+stops,stop_name,"","",Mévergnies-Attre,nl,Mévergnies-Attre
+stops,stop_name,"","",Anderlecht,nl,Anderlecht
+stops,stop_name,"","",Yves-Gomezée,nl,Yves-Gomezée
+stops,stop_name,"","",Andenne,nl,Andenne
+stops,stop_name,"","",Naninne,nl,Naninne
+stops,stop_name,"","",Yvoir,nl,Yvoir
+stops,stop_name,"","",Ampsin,nl,Ampsin
+stops,stop_name,"","",Godinne,nl,Godinne
+stops,stop_name,"","",Zandbergen,nl,Zandbergen
+stops,stop_name,"","",Amay,nl,Amay
+stops,stop_name,"","",Zaventem,nl,Zaventem
+stops,stop_name,"","",Alost,nl,Aalst
+stops,stop_name,"","",Essen-Grens,nl,Essen-Grens
+stops,stop_name,"","",Zedelgem,nl,Zedelgem
+stops,stop_name,"","",Alost Kerrebroek,nl,Aalst Kerrebroek
+stops,stop_name,"","",Mamer (LU),nl,Mamer (LU)
+stops,stop_name,"","",Zeebrugge-Dorp,nl,Zeebrugge-Dorp
+stops,stop_name,"","",Alken,nl,Alken
+stops,stop_name,"","",Zeebrugge-Strand,nl,Zeebrugge-Strand
+stops,stop_name,"","",Aix-la-Chapelle Ouest,nl,Aken West
+stops,stop_name,"","",Moensberg,nl,Moensberg
+stops,stop_name,"","",Zele,nl,Zele
+stops,stop_name,"","",Aiseau,nl,Aiseau
+stops,stop_name,"","",GOEBELSMUHLE,nl,GOEBELSMUHLE
+stops,stop_name,"","",Zellik,nl,Zellik
+stops,stop_name,"","",Aéroport Cdg TGV (FR),nl,Aéroport Cdg TGV (FR)
+stops,stop_name,"","",Zichem,nl,Zichem
+stops,stop_name,"","",Acren,nl,Acren
+stops,stop_name,"","",Natoye,nl,Natoye
+stops,stop_name,"","",Zingem,nl,Zingem
+stops,stop_name,"","",Aarsele,nl,Aarsele
+stops,stop_name,"","",Malines,nl,Mechelen
+stops,stop_name,"","",Zolder,nl,Zolder
+stops,stop_name,"","",Aarschot,nl,Aarschot
+stops,stop_name,"","",Zonhoven,nl,Zonhoven
+stops,stop_name,"","",Aalter,nl,Aalter
+stops,stop_name,"","",Essene Lombeek,nl,Essene Lombeek
+stops,stop_name,"","",Zottegem,nl,Zottegem
+stops,stop_name,"","",Aachen Hbf (DE),nl,Aachen Hbf (DE)
+stops,stop_name,"","",Malines-Nekkerspoel,nl,Mechelen-Nekkerspoel
+stops,stop_name,"","",Zwijndrecht,nl,Zwijndrecht
+stops,stop_name,"","",Mersch (LU),nl,Mersch (LU)
+stops,stop_name,"","",Heide,nl,Heide
+stops,stop_name,"","",Neerpelt,nl,Neerpelt
+stops,stop_name,"","",ESPLECHIN-FRONTIERE,nl,ESPLECHIN-FRONTIERE
+stops,stop_name,"","",Gouvy-Frontière,nl,Gouvy-Frontière
+stops,stop_name,"","",Malderen,nl,Malderen
+stops,stop_name,"","",Lissewege,nl,Lissewege
+stops,stop_name,"","",Okegem,nl,Okegem
+stops,stop_name,"","",Ham-sur-Sambre,nl,Ham-sur-Sambre
+stops,stop_name,"","",Eine,nl,Eine
+stops,stop_name,"","",Linz Hbf (AT),nl,Linz Hbf (AT)
+stops,stop_name,"","",Hansbeke,nl,Hansbeke
+stops,stop_name,"","",Olen,nl,Olen
+stops,stop_name,"","",Linkebeek,nl,Linkebeek
+stops,stop_name,"","",Eijsden (NL),nl,Eijsden (NL)
+stops,stop_name,"","",Mol,nl,Mol
+stops,stop_name,"","",Harchies,nl,Harchies
+stops,stop_name,"","",Oostkamp,nl,Oostkamp
+stops,stop_name,"","",Limburg Sud (DE),nl,Limburg Sud (DE)
+stops,stop_name,"","",Eichem,nl,Eichem
+stops,stop_name,"","",Harelbeke,nl,Harelbeke
+stops,stop_name,"","",Franière,nl,Franière
+stops,stop_name,"","",Limal,nl,Limal
+stops,stop_name,"","",Opwijk,nl,Opwijk
+stops,stop_name,"","",Forest-Est,nl,Vorst-Oost
+stops,stop_name,"","",Eeklo,nl,Eeklo
+stops,stop_name,"","",Haren,nl,Haren
+stops,stop_name,"","",Lillois,nl,Lillois
+stops,stop_name,"","",Ostende,nl,Oostende
+stops,stop_name,"","",Ede,nl,Ede
+stops,stop_name,"","",Floreffe,nl,Floreffe
+stops,stop_name,"","",Haren-Sud,nl,Haren-Zuid
+stops,stop_name,"","",Lille Flandres (FR),nl,Lille Flandres (FR)
+stops,stop_name,"","",Ottignies,nl,Ottignies
+stops,stop_name,"","",Hasselt,nl,Hasselt
+stops,stop_name,"","",Ecaussinnes,nl,Ecaussinnes
+stops,stop_name,"","",Lille Europe (FR),nl,Lille Europe (FR)
+stops,stop_name,"","",Merchtem,nl,Merchtem
+stops,stop_name,"","",Haute-Flône,nl,Haute-Flône
+stops,stop_name,"","",Oudegem,nl,Oudegem
+stops,stop_name,"","",Ligny,nl,Ligny
+stops,stop_name,"","",Duinbergen,nl,Duinbergen
+stops,stop_name,"","",Haversin,nl,Haversin
+stops,stop_name,"","",Oud-Heverlee,nl,Oud-Heverlee
+stops,stop_name,"","",Liers,nl,Liers
+stops,stop_name,"","",Duffel,nl,Duffel
+stops,stop_name,"","",Havré,nl,Havré
+stops,stop_name,"","",Michelau (LU),nl,Michelau (LU)
+stops,stop_name,"","",Lierre,nl,Lier
+stops,stop_name,"","",Ougrée,nl,Ougrée
+stops,stop_name,"","",Heerlen,nl,Heerlen
+stops,stop_name,"","",Drauffelt (LU),nl,Drauffelt (LU)
+stops,stop_name,"","",Lierde,nl,Lierde
+stops,stop_name,"","",Frankfurt Flugh (DE),nl,Frankfurt Flugh (DE)
+stops,stop_name,"","",Overpelt,nl,Overpelt
+stops,stop_name,"","",Dolhain-Gileppe,nl,Dolhain-Gileppe
+stops,stop_name,"","",Liège-Saint-Lambert,nl,Luik-Sint-Lambertus
+stops,stop_name,"","",Heist,nl,Heist
+stops,stop_name,"","",Paliseul,nl,Paliseul
+stops,stop_name,"","",Liège-Guillemins,nl,Luik-Guillemins
+stops,stop_name,"","",Dixmude,nl,Diksmuide
+stops,stop_name,"","",Heist-op-den-Berg,nl,Heist-op-den-Berg
+stops,stop_name,"","",Momalle,nl,Momalle
+stops,stop_name,"","",Liège-Carré,nl,Luik-Carré
+stops,stop_name,"","",Papignies,nl,Papegem
+stops,stop_name,"","",Dippach-Reckange (LU),nl,Dippach-Reckange (LU)
+stops,stop_name,"","",Heizijde,nl,Heizijde
+stops,stop_name,"","",Menin,nl,Menen
+stops,stop_name,"","",Liedekerke,nl,Liedekerke
+stops,stop_name,"","",Paris Nord (FR),nl,Paris Nord (FR)
+stops,stop_name,"","",Hellemmes (FR),nl,Hellemmes (FR)
+stops,stop_name,"","",Dinant,nl,Dinant
+stops,stop_name,"","",Lichtervelde,nl,Lichtervelde
+stops,stop_name,"","",Hemiksem,nl,Hemiksem
+stops,stop_name,"","",Pécrot,nl,Pécrot
+stops,stop_name,"","",Libramont,nl,Libramont
+stops,stop_name,"","",Dilbeek,nl,Dilbeek
+stops,stop_name,"","",Florée,nl,Florée
+stops,stop_name,"","",Hennuyères,nl,Hennuyères
+stops,stop_name,"","",Pepinster-Cité,nl,Pepinster-Cité
+stops,stop_name,"","",Lezennes (FR),nl,Lezennes (FR)
+stops,stop_name,"","",Diest,nl,Diest
+stops,stop_name,"","",Herentals,nl,Herentals
+stops,stop_name,"","",Leval,nl,Leval
+stops,stop_name,"","",Pepinster,nl,Pepinster
+stops,stop_name,"","",Herent,nl,Herent
+stops,stop_name,"","",Diepenbeek,nl,Diepenbeek
+stops,stop_name,"","",Leuze,nl,Leuze
+stops,stop_name,"","",Péruwelz,nl,Péruwelz
+stops,stop_name,"","",Hergenrath-Frontière,nl,Hergenrath-Frontière
+stops,stop_name,"","",Diegem,nl,Diegem
+stops,stop_name,"","",Leudelange (LU),nl,Leudelange (LU)
+stops,stop_name,"","",Meuse-TGV,nl,Meuse-TGV
+stops,stop_name,"","",Hergenrath,nl,Hergenrath
+stops,stop_name,"","",Pétange (LU),nl,Pétange (LU)
+stops,stop_name,"","",Lessines,nl,Lessen
+stops,stop_name,"","",De Pinte,nl,De Pinte
+stops,stop_name,"","",Herne,nl,Herne
+stops,stop_name,"","",Frankfurt Main (DE),nl,Frankfurt Main (DE)
+stops,stop_name,"","",Lens,nl,Lens
+stops,stop_name,"","",Pfaffenthal-Kirchberg (LU),nl,Pfaffenthal-Kirchberg (LU)
+stops,stop_name,"","",Denderleeuw,nl,Denderleeuw
+stops,stop_name,"","",Herseaux,nl,Herzeeuw
+stops,stop_name,"","",Lembeek,nl,Lembeek
+stops,stop_name,"","",Philippeville,nl,Philippeville
+stops,stop_name,"","",Herstal,nl,Herstal
+stops,stop_name,"","",Delta,nl,Delta
+stops,stop_name,"","",Leman,nl,Leman
+stops,stop_name,"","",Mons,nl,Bergen
+stops,stop_name,"","",Herzele,nl,Herzele
+stops,stop_name,"","",Piéton,nl,Piéton
+stops,stop_name,"","",Leignon,nl,Leignon
+stops,stop_name,"","",Deinze,nl,Deinze
+stops,stop_name,"","",Melsele,nl,Melsele
+stops,stop_name,"","",Herzogenrath,nl,Herzogenrath
+stops,stop_name,"","",Neerwinden,nl,Neerwinden
+stops,stop_name,"","",Gouvy,nl,Gouvy
+stops,stop_name,"","",Esneux,nl,Esneux
+stops,stop_name,"","",Mainz Hbf (DE),nl,Mainz Hbf (DE)
+stops,stop_name,"","",Florival,nl,Florival
+stops,stop_name,"","",Gouy-lez-Piéton,nl,Gouy-lez-Piéton
+stops,stop_name,"","",Nessonvaux,nl,Nessonvaux
+stops,stop_name,"","",Maffle,nl,Maffle
+stops,stop_name,"","",Erquelinnes-Village,nl,Erquelinnes-Dorp
+stops,stop_name,"","",Frameries,nl,Frameries
+stops,stop_name,"","",Graide,nl,Graide
+stops,stop_name,"","",Neufchâteau,nl,Neufchâteau
+stops,stop_name,"","",Maastricht Randwijck (NL),nl,Maastricht Randwijck (NL)
+stops,stop_name,"","",Erquelinnes,nl,Erquelinnes
+stops,stop_name,"","",Grammont,nl,Geraardsbergen
+stops,stop_name,"","",Maastricht (NL),nl,Maastricht (NL)
+stops,stop_name,"","",Neufvilles,nl,Neufvilles
+stops,stop_name,"","",Grand-Bigard,nl,Groot-Bijgaarden
+stops,stop_name,"","",ERQUELINNES-FRONTIERE,nl,ERQUELINNES-FRONTIERE
+stops,stop_name,"","",Luxembourg (LU),nl,Luxemburg (LU)
+stops,stop_name,"","",Forest-Midi,nl,Vorst-Zuid
+stops,stop_name,"","",Niel,nl,Niel
+stops,stop_name,"","",Groenendaal,nl,Groenendaal
+stops,stop_name,"","",Erps-Kwerps,nl,Erps-Kwerps
+stops,stop_name,"","",Luttre,nl,Luttre
+stops,stop_name,"","",Mérode,nl,Merode
+stops,stop_name,"","",Grupont,nl,Grupont
+stops,stop_name,"","",Nieuwkerken-Waas,nl,Nieuwkerken-Waas
+stops,stop_name,"","",Lustin,nl,Lustin
+stops,stop_name,"","",Erpe-Mere,nl,Erpe-Mere
+stops,stop_name,"","",Haacht,nl,Haacht
+stops,stop_name,"","",Louvain,nl,Leuven
+stops,stop_name,"","",Nijlen,nl,Nijlen
+stops,stop_name,"","",Louvain-la-Neuve,nl,Louvain-la-Neuve
+stops,stop_name,"","",Ernage,nl,Ernage
+stops,stop_name,"","",Florenville,nl,Florenville
+stops,stop_name,"","",Haaltert,nl,Haaltert
+stops,stop_name,"","",Nimy,nl,Nimy
+stops,stop_name,"","",Habay,nl,Habay
+stops,stop_name,"","",Erembodegem,nl,Erembodegem
+stops,stop_name,"","",Lot,nl,Lot
+stops,stop_name,"","",Hainin,nl,Hainin
+stops,stop_name,"","",Ninove,nl,Ninove
+stops,stop_name,"","",LORRAINE TGV,nl,LORRAINE TGV
+stops,stop_name,"","",Erbisoeul,nl,Erbisoeul
+stops,stop_name,"","",Halanzy,nl,Halanzy
+stops,stop_name,"","",Nivelles,nl,Nijvel
+stops,stop_name,"","",Lonzée,nl,Lonzée
+stops,stop_name,"","",Eppegem,nl,Eppegem
+stops,stop_name,"","",Hal,nl,Halle
+stops,stop_name,"","",Londerzeel,nl,Londerzeel
+stops,stop_name,"","",Noorderkempen (Brecht),nl,Noorderkempen (Brecht)
+stops,stop_name,"","",Hambos,nl,Hambos
+stops,stop_name,"","",Engis,nl,Engis
+stops,stop_name,"","",Lommel,nl,Lommel
+stops,stop_name,"","",Franchimont,nl,Franchimont
+stops,stop_name,"","",Nossegem,nl,Nossegem
+stops,stop_name,"","",Hamburg-Harburg,nl,Hamburg-Harburg
+stops,stop_name,"","",Enghien,nl,Edingen
+stops,stop_name,"","",Lokeren,nl,Lokeren
+stops,stop_name,"","",Hamoir,nl,Hamoir
+stops,stop_name,"","",Obaix-Buzet,nl,Obaix-Buzet
+stops,stop_name,"","",Lodelinsart,nl,Lodelinsart
+stops,stop_name,"","",Ekeren,nl,Ekeren
+stops,stop_name,"","",Hamont,nl,Hamont
+stops,stop_name,"","",Mollem,nl,Mollem
+stops,stop_name,"","",Lobbes,nl,Lobbes
+stops,stop_name,"","",Obourg,nl,Obourg
+stops,stop_name,"","",Eke-Nazareth,nl,Eke-Nazareth
+stops,stop_name,"","",Ham-sur-Heure,nl,Ham-sur-Heure
+stops,stop_name,"","",Merelbeke,nl,Merelbeke
+stops,stop_name,"","",Poix-Saint-Hubert,nl,Poix-Saint-Hubert
+stops,stop_name,"","",Lede,nl,Lede
+stops,stop_name,"","",De Hoek,nl,De Hoek
+stops,stop_name,"","",Heusden,nl,Heusden
+stops,stop_name,"","",Le Campinaire,nl,Le Campinaire
+stops,stop_name,"","",Pont-à-Celles,nl,Pont-à-Celles
+stops,stop_name,"","",Kapellen,nl,Kapellen
+stops,stop_name,"","",Heverlee,nl,Heverlee
+stops,stop_name,"","",Kapelle-op-den-Bos,nl,Kapelle-op-den-Bos
+stops,stop_name,"","",Kalmthout,nl,Kalmthout
+stops,stop_name,"","",Kautenbach (LU),nl,Kautenbach (LU)
+stops,stop_name,"","",Juslenville,nl,Juslenville
+stops,stop_name,"","",Dave-Saint-Martin,nl,Dave-Saint-Martin
+stops,stop_name,"","",Kessel,nl,Kessel
+stops,stop_name,"","",Jurbise,nl,Jurbeke
+stops,stop_name,"","",Lebbeke,nl,Lebbeke
+stops,stop_name,"","",Kiewit,nl,Kiewit
+stops,stop_name,"","",Jette,nl,Jette
+stops,stop_name,"","",Kijkuit,nl,Kijkuit
+stops,stop_name,"","",Jemeppe-sur-Sambre,nl,Jemeppe-sur-Sambre
+stops,stop_name,"","",Fleurus,nl,Fleurus
+stops,stop_name,"","",Kleinbettingen (LU),nl,Kleinbettingen (LU)
+stops,stop_name,"","",Jemeppe-sur-Meuse,nl,Jemeppe-sur-Meuse
+stops,stop_name,"","",Knokke,nl,Knokke
+stops,stop_name,"","",Jemappes,nl,Jemappes
+stops,stop_name,"","",Koblenz Hbf (DE),nl,Koblenz Hbf (DE)
+stops,stop_name,"","",Jamioulx,nl,Jamioulx
+stops,stop_name,"","",Pont de Bois (FR),nl,Pont de Bois (FR)
+stops,stop_name,"","",KOLN-EHRENFELD,nl,KOLN-EHRENFELD
+stops,stop_name,"","",Jambes,nl,Jambes
+stops,stop_name,"","",Hever,nl,Hever
+stops,stop_name,"","",Köln Hbf (DE),nl,Köln Hbf (DE)
+stops,stop_name,"","",Jambes-Est,nl,Jambes-Oost
+stops,stop_name,"","",KOLN SUD,nl,KOLN SUD
+stops,stop_name,"","",Izegem,nl,Izegem
+stops,stop_name,"","",Croix Wasquehal (FR),nl,Croix Wasquehal (FR)
+stops,stop_name,"","",Kontich-Lint,nl,Kontich-Lint
+stops,stop_name,"","",Ingelmunster,nl,Ingelmunster
+stops,stop_name,"","",La Roche (brabant),nl,La Roche (brabant)
+stops,stop_name,"","",Kortemark,nl,Kortemark
+stops,stop_name,"","",Idegem,nl,Idegem
+stops,stop_name,"","",Kortenberg,nl,Kortenberg
+stops,stop_name,"","",Iddergem,nl,Iddergem
+stops,stop_name,"","",Freilassing,nl,Freilassing
+stops,stop_name,"","",Kwatrecht,nl,Kwatrecht
+stops,stop_name,"","",Huy,nl,Hoei
+stops,stop_name,"","",Hillegem,nl,Hillegem
+stops,stop_name,"","",Labuissière,nl,Labuissière
+stops,stop_name,"","",Huizingen,nl,Huizingen
+stops,stop_name,"","",La Hulpe,nl,Terhulpen
+stops,stop_name,"","",Hove,nl,Hove
+stops,stop_name,"","",Pont-de-Seraing,nl,Pont-de-Seraing
+stops,stop_name,"","",La Louvière-Centre,nl,La Louvière-Centrum
+stops,stop_name,"","",Houyet,nl,Houyet
+stops,stop_name,"","",La Panne,nl,De Panne
+stops,stop_name,"","",La Louvière-Sud,nl,La Louvière-Zuid
+stops,stop_name,"","",Hourpes,nl,Hourpes
+stops,stop_name,"","",Lamadeleine (LU),nl,Lamadeleine (LU)
+stops,stop_name,"","",Houraing,nl,Houraing
+stops,stop_name,"","",Croix l'Allumette (FR),nl,Croix l'Allumette (FR)
+stops,stop_name,"","",Landegem,nl,Landegem
+stops,stop_name,"","",Hony,nl,Hony
+stops,stop_name,"","",Hoboken-Polder,nl,Hoboken-Polder
+stops,stop_name,"","",Landelies,nl,Landelies
+stops,stop_name,"","",Hollerich (LU),nl,Hollerich (LU)
+stops,stop_name,"","",Landen,nl,Landen
+stops,stop_name,"","",Holleken,nl,Holleken
+stops,stop_name,"","",Landgraaf,nl,Landgraaf
+stops,stop_name,"","",Hofstade,nl,Hofstade
+stops,stop_name,"","",Landskouter,nl,Landskouter
+stops,stop_name,"","",Hoeilaart,nl,Hoeilaart
+stops,stop_name,"","",Poperinge,nl,Poperinge
+stops,stop_name,"","",Langdorp,nl,Langdorp
+stops,stop_name,"","",Creil - Bât Voyageurs,nl,Creil - Bât Voyageurs
+stops,stop_name,"","",Poulseur,nl,Poulseur
+stops,stop_name,"","",Coxyde,nl,Koksijde
+stops,stop_name,"","",Melreux-Hotton,nl,Melreux-Hotton
+stops,stop_name,"","",Profondsart,nl,Profondsart
+stops,stop_name,"","",Couvin,nl,Couvin
+stops,stop_name,"","",Pry,nl,Pry
+stops,stop_name,"","",Court-Saint-Etienne,nl,Court-Saint-Etienne
+stops,stop_name,"","",MONTABAUR,nl,MONTABAUR
+stops,stop_name,"","",Puurs,nl,Puurs
+stops,stop_name,"","",Courtrai,nl,Kortrijk
+stops,stop_name,"","",Froyennes,nl,Froyennes
+stops,stop_name,"","",Quaregnon,nl,Quaregnon
+stops,stop_name,"","",Cour-sur-Heure,nl,Cour-sur-Heure
+stops,stop_name,"","",Courrière,nl,Courrière
+stops,stop_name,"","",Flémalle-Haute,nl,Flémalle-Haute
+stops,stop_name,"","",QUEVY-FRONTIERE,nl,QUEVY-FRONTIERE
+stops,stop_name,"","",Quévy,nl,Quévy
+stops,stop_name,"","",Courcelles-Motte,nl,Courcelles-Motte
+stops,stop_name,"","",Melle,nl,Melle
+stops,stop_name,"","",Quiévrain,nl,Quiévrain
+stops,stop_name,"","",Couillet,nl,Couillet
+stops,stop_name,"","",Rebaix,nl,Rebaix
+stops,stop_name,"","",Coo,nl,Coo
+stops,stop_name,"","",Forchies,nl,Forchies
+stops,stop_name,"","",Remicourt,nl,Remicourt
+stops,stop_name,"","",Comines,nl,Komen
+stops,stop_name,"","",Renaix,nl,Ronse
+stops,stop_name,"","",Comblain-la-Tour,nl,Comblain-la-Tour
+stops,stop_name,"","",Chapelle-Dieu,nl,Chapelle-Dieu
+stops,stop_name,"","",Meiser,nl,Meiser
+stops,stop_name,"","",Roulers,nl,Roeselare
+stops,stop_name,"","",Champagne-Ardenne TGV (FR),nl,Champagne-Ardenne TGV (FR)
+stops,stop_name,"","",Roux,nl,Roux
+stops,stop_name,"","",Céroux-Mousty,nl,Céroux-Mousty
+stops,stop_name,"","",Flawinne,nl,Flawinne
+stops,stop_name,"","",Ruisbroek,nl,Ruisbroek
+stops,stop_name,"","",Carnières,nl,Carnières
+stops,stop_name,"","",Gand-Dampoort,nl,Gent-Dampoort
+stops,stop_name,"","",Ruisbroek-Sauvegarde,nl,Ruisbroek-Sauvegarde
+stops,stop_name,"","",Carlsbourg,nl,Carlsbourg
+stops,stop_name,"","",Saint-Denis-Bovesse,nl,Saint-Denis-Bovesse
+stops,stop_name,"","",Capellen (LU),nl,Capellen (LU)
+stops,stop_name,"","",Saint-Ghislain,nl,Saint-Ghislain
+stops,stop_name,"","",Cambron-Casteau,nl,Cambron-Casteau
+stops,stop_name,"","",Meerssen,nl,Meerssen
+stops,stop_name,"","",Saint-Job,nl,Sint-Job
+stops,stop_name,"","",Callenelle,nl,Callenelle
+stops,stop_name,"","",Saint-Nicolas,nl,Sint-Niklaas
+stops,stop_name,"","",Burst,nl,Burst
+stops,stop_name,"","",Morlanwelz,nl,Morlanwelz
+stops,stop_name,"","",Saint-Trond,nl,Sint-Truiden
+stops,stop_name,"","",Buizingen,nl,Buizingen
+stops,stop_name,"","",Salzburg Hbf (AT),nl,Salzburg Hbf (AT)
+stops,stop_name,"","",Buggenhout,nl,Buggenhout
+stops,stop_name,"","",Sart-Bernard,nl,Sart-Bernard
+stops,stop_name,"","",Buda,nl,Buda
+stops,stop_name,"","",Fexhe-le-Haut-Clocher,nl,Fexhe-le-Haut-Clocher
+stops,stop_name,"","",Schaerbeek,nl,Schaarbeek
+stops,stop_name,"","",Bruxelles-Schuman,nl,Brussel-Schuman
+stops,stop_name,"","",Gand-Saint-Pierre,nl,Gent-Sint-Pieters
+stops,stop_name,"","",Rhisnes,nl,Rhisnes
+stops,stop_name,"","",Clervaux (LU),nl,Clervaux (LU)
+stops,stop_name,"","",Mont-Saint-Guibert,nl,Mont-Saint-Guibert
+stops,stop_name,"","",Rhode-Saint-Genèse,nl,Sint-Genesius-Rode
+stops,stop_name,"","",Ciney,nl,Ciney
+stops,stop_name,"","",Furnes,nl,Veurne
+stops,stop_name,"","",Rivage,nl,Rivage
+stops,stop_name,"","",Chênée,nl,Chênée
+stops,stop_name,"","",Rixensart,nl,Rixensart
+stops,stop_name,"","",Chaudfontaine,nl,Chaudfontaine
+stops,stop_name,"","",Flémalle-Grande,nl,Flémalle-Grande
+stops,stop_name,"","",Rochefort-Jemelle,nl,Rochefort-Jemelle
+stops,stop_name,"","",Châtelet,nl,Châtelet
+stops,stop_name,"","",Melkouwen,nl,Melkouwen
+stops,stop_name,"","",Rodange (LU),nl,Rodange (LU)
+stops,stop_name,"","",Château-de-Seilles,nl,Château-de-Seilles
+stops,stop_name,"","",Ronet,nl,Ronet
+stops,stop_name,"","",Chastre,nl,Chastre
+stops,stop_name,"","",Messancy,nl,Messancy
+stops,stop_name,"","",Roosendaal (NL),nl,Roosendaal (NL)
+stops,stop_name,"","",Charleroi-Ouest,nl,Charleroi-West
+stops,stop_name,"","",Rosenheim (DE),nl,Rosenheim (DE)
+stops,stop_name,"","",Charleroi-Central,nl,Charleroi-Centraal
+stops,stop_name,"","",Moortsele,nl,Moortsele
+stops,stop_name,"","",Rotterdam Centraal (NL),nl,Rotterdam Centraal (NL)
+stops,stop_name,"","",Chapois,nl,Chapois
+stops,stop_name,"","",Gammerages,nl,Galmaarden
+stops,stop_name,"","",Roubaix (FR),nl,Roubaix (FR)
+stops,stop_name,"","",Scheldewindeke,nl,Scheldewindeke
+stops,stop_name,"","",Bruxelles-Ouest,nl,Brussel-West
+stops,stop_name,"","",Schellebelle,nl,Schellebelle
+stops,stop_name,"","",Bruxelles-Nord,nl,Brussel-Noord
+stops,stop_name,"","",Schelle,nl,Schelle
+stops,stop_name,"","",Bruxelles-Midi,nl,Brussel-Zuid
+stops,stop_name,"","",Mazy,nl,Mazy
+stops,stop_name,"","",Schendelbeke,nl,Schendelbeke
+stops,stop_name,"","",Bruxelles-Luxembourg,nl,Brussel-Luxemburg
+stops,stop_name,"","",Schoonaarde,nl,Schoonaarde
+stops,stop_name,"","",Bruxelles-Congrès,nl,Brussel-Congres
+stops,stop_name,"","",Faux,nl,Faux
+stops,stop_name,"","",Schouweiler (LU),nl,Schouweiler (LU)
+stops,stop_name,"","",Bruxelles-Chapelle,nl,Brussel-Kapellekerk
+stops,stop_name,"","",Gastuche,nl,Gastuche
+stops,stop_name,"","",Schulen,nl,Schulen
+stops,stop_name,"","",Bruxelles-Central,nl,Brussel-Centraal
+stops,stop_name,"","",Sclaigneaux,nl,Sclaigneaux
+stops,stop_name,"","",Brussels Airport-Zaventem,nl,Brussels Airport-Zaventem
+stops,stop_name,"","",Sclessin,nl,Sclessin
+stops,stop_name,"","",Bruges-Saint-Pierre,nl,Brugge-Sint-Pieters
+stops,stop_name,"","",Maubray,nl,Maubray
+stops,stop_name,"","",Seraing,nl,Seraing
+stops,stop_name,"","",Bruges,nl,Brugge
+stops,stop_name,"","",Serskamp,nl,Serskamp
+stops,stop_name,"","",Brugelette,nl,Brugelette
+stops,stop_name,"","",Mortsel-Liersesteenweg,nl,Mortsel-Liersesteenweg
+stops,stop_name,"","",Siegburg (DE),nl,Siegburg (DE)
+stops,stop_name,"","",Bressoux,nl,Bressoux
+stops,stop_name,"","",Gavere-Asper,nl,Gavere-Asper
+stops,stop_name,"","",Silly,nl,Opzullik
+stops,stop_name,"","",Breda (NL),nl,Breda (NL)
+stops,stop_name,"","",Simonis,nl,Simonis
+stops,stop_name,"","",Braine-le-Comte,nl,'s-Gravenbrakel
+stops,stop_name,"","",Mortsel,nl,Mortsel
+stops,stop_name,"","",Sinaai,nl,Sinaai
+stops,stop_name,"","",Braine-l'Alleud,nl,Eigenbrakel
+stops,stop_name,"","",Maubeuge (FR),nl,Maubeuge (FR)
+stops,stop_name,"","",Sint-Denijs-Boekel,nl,Sint-Denijs-Boekel
+stops,stop_name,"","",BRAINE-ALLIANCE,nl,BRAINE-ALLIANCE
+stops,stop_name,"","",Sint-Gillis,nl,Sint-Gillis
+stops,stop_name,"","",Bracquegnies,nl,Bracquegnies
+stops,stop_name,"","",Farciennes,nl,Farciennes
+stops,stop_name,"","",Sint-Joris-Weert,nl,Sint-Joris-Weert
+stops,stop_name,"","",Bouwel,nl,Bouwel
+stops,stop_name,"","",Sint-Katelijne-Waver,nl,Sint-Katelijne-Waver
+stops,stop_name,"","",Boussu,nl,Boussu
+stops,stop_name,"","",Sint-Mariaburg,nl,Sint-Mariaburg
+stops,stop_name,"","",Bourg-Léopold,nl,Leopoldsburg
+stops,stop_name,"","",Sint-Martens-Bodegem,nl,Sint-Martens-Bodegem
+stops,stop_name,"","",Bornem,nl,Bornem
+stops,stop_name,"","",Gedinne,nl,Gedinne
+stops,stop_name,"","",Sleidinge,nl,Sleidinge
+stops,stop_name,"","",Bordet,nl,Bordet
+stops,stop_name,"","",Soignies,nl,Zinnik
+stops,stop_name,"","",Boortmeerbeek,nl,Boortmeerbeek
+stops,stop_name,"","",Mortsel-Oude God,nl,Mortsel-Oude God
+stops,stop_name,"","",Solre-sur-Sambre,nl,Solre-sur-Sambre
+stops,stop_name,"","",Boondael,nl,Boondaal
+stops,stop_name,"","",Masnuy-Saint-Pierre,nl,Masnuy-Saint-Pierre
+stops,stop_name,"","",Boom,nl,Boom
+stops,stop_name,"","",Spa-Géronstère,nl,Spa-Géronstère
+stops,stop_name,"","",Spa,nl,Spa
+stops,stop_name,"","",Booischot,nl,Booischot
+stops,stop_name,"","",Familleureux,nl,Familleureux
+stops,stop_name,"","",Statte,nl,Statte
+stops,stop_name,"","",Bonn Hbf,nl,Bonn Hbf
+stops,stop_name,"","",Geel,nl,Geel
+stops,stop_name,"","",Sterpenich-Frontière,nl,Sterpenich-Frontière
+stops,stop_name,"","",Bonn-Beuel (DE),nl,Bonn-Beuel (DE)
+stops,stop_name,"","",Stockem,nl,Stockem
+stops,stop_name,"","",St.Poelten Hbf,nl,St.Poelten Hbf
+stops,stop_name,"","",Bomal,nl,Bomal
+stops,stop_name,"","",Milmort,nl,Milmort
+stops,stop_name,"","",Strasbourg (FR),nl,Strasbourg (FR)
+stops,stop_name,"","",Bokrijk,nl,Bokrijk
+stops,stop_name,"","",Marloie,nl,Marloie
+stops,stop_name,"","",Sy,nl,Sy
+stops,stop_name,"","",Boitsfort,nl,Bosvoorde
+stops,stop_name,"","",Tamines,nl,Tamines
+stops,stop_name,"","",Boechout,nl,Boechout
+stops,stop_name,"","",Ezemaal,nl,Ezemaal
+stops,stop_name,"","",Tamise,nl,Temse
+stops,stop_name,"","",Bockstael,nl,Bockstael
+stops,stop_name,"","",Gembloux,nl,Gembloux
+stops,stop_name,"","",Terhagen,nl,Terhagen
+stops,stop_name,"","",Bléret,nl,Bléret
+stops,stop_name,"","",Termonde,nl,Dendermonde
+stops,stop_name,"","",Blaton,nl,Blaton
+stops,stop_name,"","",Forrières,nl,Forrières
+stops,stop_name,"","",Ternat,nl,Ternat
+stops,stop_name,"","",Blanmont,nl,Blanmont
+stops,stop_name,"","",Mariembourg,nl,Mariembourg
+stops,stop_name,"","",Testelt,nl,Testelt
+stops,stop_name,"","",Blankenberge,nl,Blankenberge
+stops,stop_name,"","",Theux,nl,Theux
+stops,stop_name,"","",Blandain-Frontière,nl,Blandain-Frontière
+stops,stop_name,"","",Mouscron-Frontière,nl,Mouscron-Frontière
+stops,stop_name,"","",Thieu,nl,Thieu
+stops,stop_name,"","",Bissegem,nl,Bissegem
+stops,stop_name,"","",Thuin,nl,Thuin
+stops,stop_name,"","",Binche,nl,Binche
+stops,stop_name,"","",Thulin,nl,Thulin
+stops,stop_name,"","",Bilzen,nl,Bilzen
+stops,stop_name,"","",Mouscron,nl,Moeskroen
+stops,stop_name,"","",Tielen,nl,Tielen
+stops,stop_name,"","",Bierset-Awans,nl,Bierset-Awans
+stops,stop_name,"","",Gendron-Celles,nl,Gendron-Celles
+stops,stop_name,"","",Tielt,nl,Tielt
+stops,stop_name,"","",Bierges-Walibi,nl,Bierges-Walibi
+stops,stop_name,"","",Tilff,nl,Tilff
+stops,stop_name,"","",Beverlo,nl,Beverlo
+stops,stop_name,"","",Eygelshoven markt,nl,Eygelshoven markt
+stops,stop_name,"","",Tilly,nl,Tilly
+stops,stop_name,"","",Beveren,nl,Beveren
+stops,stop_name,"","",Viane-Moerbeke,nl,Viane-Moerbeke
+stops,stop_name,"","",Bambrugge,nl,Bambrugge
+stops,stop_name,"","",Marche-lez-Ecaussinnes,nl,Marche-lez-Ecaussinnes
+stops,stop_name,"","",Vichte,nl,Vichte
+stops,stop_name,"","",Balen,nl,Balen
+stops,stop_name,"","",Vielsalm,nl,Vielsalm
+stops,stop_name,"","",Balegem-Zuid,nl,Balegem-Zuid
+stops,stop_name,"","",München Ost (DE),nl,München Ost (DE)
+stops,stop_name,"","",Vijfhuizen,nl,Vijfhuizen
+stops,stop_name,"","",Balegem-Dorp,nl,Balegem-Dorp
+stops,stop_name,"","",Genval,nl,Genval
+stops,stop_name,"","",Ville-Pommeroeul,nl,Ville-Pommeroeul
+stops,stop_name,"","",Baisieux (FR),nl,Baisieux (FR)
+stops,stop_name,"","",Villers-la-Ville,nl,Villers-la-Ville
+stops,stop_name,"","",Baasrode-Zuid,nl,Baasrode-Zuid
+stops,stop_name,"","",Eupen,nl,Eupen
+stops,stop_name,"","",Vilvorde,nl,Vilvoorde
+stops,stop_name,"","",Aywaille,nl,Aywaille
+stops,stop_name,"","",Marche-les-Dames,nl,Marche-les-Dames
+stops,stop_name,"","",Virton,nl,Virton
+stops,stop_name,"","",Aye,nl,Aye
+stops,stop_name,"","",Auvelais,nl,Auvelais
+stops,stop_name,"","",Visé-Frontière,nl,Visé-Frontière
+stops,stop_name,"","",Visé,nl,Wezet
+stops,stop_name,"","",Aulnoye Aymeries (FR),nl,Aulnoye Aymeries (FR)
+stops,stop_name,"","",Germoir,nl,Mouterij
+stops,stop_name,"","",Vivier D'Oie,nl,Diesdelle
+stops,stop_name,"","",Audenarde,nl,Oudenaarde
+stops,stop_name,"","",Viville,nl,Viville
+stops,stop_name,"","",Aubange,nl,Aubange
+stops,stop_name,"","",Munkzwalm,nl,Munkzwalm
+stops,stop_name,"","",Voroux,nl,Voroux
+stops,stop_name,"","",Aubange-Frontière-Luxembourg,nl,Aubange-Frontière-Luxembourg
+stops,stop_name,"","",Marche-en-Famenne,nl,Marche-en-Famenne
+stops,stop_name,"","",Waarschoot,nl,Waarschoot
+stops,stop_name,"","",Athus,nl,Athus
+stops,stop_name,"","",Walcourt,nl,Walcourt
+stops,stop_name,"","",Athus-Frontière,nl,Athus-Frontière
+stops,stop_name,"","",Etterbeek,nl,Etterbeek
+stops,stop_name,"","",Waregem,nl,Waregem
+stops,stop_name,"","",Ath,nl,Aat
+trips,trip_headsign,"","",Gentbrugge,de,Gentbrugge
+trips,trip_headsign,"","",Courrière,de,Courrière
+trips,trip_headsign,"","",Mons,de,Bergen / Mons
+trips,trip_headsign,"","",Gouvy,de,Gouvy
+trips,trip_headsign,"","",Ruisbroek-Sauvegarde,de,Ruisbroek-Sauvegarde
+trips,trip_headsign,"","",Zele,de,Zele
+trips,trip_headsign,"","",Grammont,de,Geraardsbergen / Grammont
+trips,trip_headsign,"","",Boechout,de,Boechout
+trips,trip_headsign,"","",Ottignies,de,Ottignies
+trips,trip_headsign,"","",Hal,de,Halle / Hal
+trips,trip_headsign,"","",Troisvierges (LU),de,Troisvierges (LU)
+trips,trip_headsign,"","",Enghien,de,Edingen / Enghien
+trips,trip_headsign,"","",Hamont,de,Hamont
+trips,trip_headsign,"","",Sint-Joris-Weert,de,Sint-Joris-Weert
+trips,trip_headsign,"","",Roulers,de,Roeselare / Roulers
+trips,trip_headsign,"","",Hasselt,de,Hasselt
+trips,trip_headsign,"","",Bomal,de,Bomal
+trips,trip_headsign,"","",Marbehan,de,Marbehan
+trips,trip_headsign,"","",Heerlen,de,Heerlen
+trips,trip_headsign,"","",Courtrai,de,Kortrijk / Courtrai
+stops,stop_name,"","",Maria-Aalter,nl,Maria-Aalter
+stops,stop_name,"","",Tirlemont,nl,Tienen
+stops,stop_name,"","",Beuzet,nl,Beuzet
+stops,stop_name,"","",Tollembeek,nl,Tollembeek
+stops,stop_name,"","",Berzée,nl,Berzée
+stops,stop_name,"","",Tongres,nl,Tongeren
+stops,stop_name,"","",Bertrix,nl,Bertrix
+stops,stop_name,"","",Genk,nl,Genk
+stops,stop_name,"","",Torhout,nl,Torhout
+stops,stop_name,"","",Bertrange Strassen (LU),nl,Bertrange Strassen (LU)
+stops,stop_name,"","",Tourcoing (FR),nl,Tourcoing (FR)
+stops,stop_name,"","",Berlin Gesundbrunnen,nl,Berlin Gesundbrunnen
+stops,stop_name,"","",Moustier,nl,Moustier
+stops,stop_name,"","",Tour-et-Taxis,nl,Thurn-en-Taxis
+stops,stop_name,"","",Berlaar,nl,Berlaar
+stops,stop_name,"","",Marchienne-Zone,nl,Marchienne-Zone
+stops,stop_name,"","",Tournai,nl,Doornik
+stops,stop_name,"","",Beringen,nl,Beringen
+stops,stop_name,"","",Trois-Ponts,nl,Trois-Ponts
+stops,stop_name,"","",Berchem-Sainte-Agathe,nl,Sint-Agatha-Berchem
+stops,stop_name,"","",Evergem,nl,Evergem
+stops,stop_name,"","",Troisvierges (LU),nl,Troisvierges (LU)
+stops,stop_name,"","",Belsele,nl,Belsele
+stops,stop_name,"","",Genly,nl,Genly
+stops,stop_name,"","",Tronchiennes,nl,Drongen
+stops,stop_name,"","",Bellem,nl,Bellem
+stops,stop_name,"","",Trooz,nl,Trooz
+stops,stop_name,"","",Beignée,nl,Beignée
+stops,stop_name,"","",Fontaine-Valmont,nl,Fontaine-Valmont
+stops,stop_name,"","",Tubize,nl,Tubeke
+stops,stop_name,"","",Begijnendijk,nl,Begijnendijk
+stops,stop_name,"","",Marchienne-au-Pont,nl,Marchienne-au-Pont
+stops,stop_name,"","",Turnhout,nl,Turnhout
+stops,stop_name,"","",Beervelde,nl,Beervelde
+stops,stop_name,"","",Uccle-Calevoet,nl,Ukkel-Kalevoet
+stops,stop_name,"","",Beersel,nl,Beersel
+stops,stop_name,"","",Muizen,nl,Muizen
+stops,stop_name,"","",Uccle-Stalle,nl,Ukkel-Stalle
+stops,stop_name,"","",Beernem,nl,Beernem
+stops,stop_name,"","",Valkenburg,nl,Valkenburg
+stops,stop_name,"","",Beauraing,nl,Beauraing
+stops,stop_name,"","",Veltem,nl,Veltem
+stops,stop_name,"","",Basse-Wavre,nl,Basse-Wavre
+stops,stop_name,"","",Evere,nl,Evere
+stops,stop_name,"","",Vertrijk,nl,Vertrijk
+stops,stop_name,"","",Bas-Oha,nl,Bas-Oha
+stops,stop_name,"","",Gentbrugge,nl,Gentbrugge
+stops,stop_name,"","",Verviers-Central,nl,Verviers-Centraal
+stops,stop_name,"","",Bascharage-Sanem (LU),nl,Bascharage-Sanem (LU)
+stops,stop_name,"","",Verviers-Palais,nl,Verviers-Paleis
+stops,stop_name,"","",Barvaux,nl,Barvaux
+stops,stop_name,"","",Méry,nl,Méry
+trips,trip_headsign,"","",Welle,de,Welle
+trips,trip_headsign,"","",Heist-op-den-Berg,de,Heist-op-den-Berg
+trips,trip_headsign,"","",Mariembourg,de,Mariembourg
+trips,trip_headsign,"","",Renaix,de,Ronse / Renaix
+trips,trip_headsign,"","",Herentals,de,Herentals
+trips,trip_headsign,"","",Boom,de,Boom
+trips,trip_headsign,"","",Erquelinnes,de,Erquelinnes
+trips,trip_headsign,"","",Herent,de,Herent
+trips,trip_headsign,"","",Soignies,de,Zinnik / Soignies
+trips,trip_headsign,"","",Turnhout,de,Turnhout
+trips,trip_headsign,"","",Herstal,de,Herstal
+trips,trip_headsign,"","",Saint-Ghislain,de,Saint-Ghislain
+trips,trip_headsign,"","",Zonhoven,de,Zonhoven
+trips,trip_headsign,"","",Hillegem,de,Hillegem
+trips,trip_headsign,"","",Couvin,de,Couvin
+trips,trip_headsign,"","",Boondael,de,Boondaal / Boondael
+trips,trip_headsign,"","",Hoboken-Polder,de,Hoboken-Polder
+trips,trip_headsign,"","",Pepinster,de,Pepinster
+trips,trip_headsign,"","",Manage,de,Manage
+trips,trip_headsign,"","",Holleken,de,Holleken
+trips,trip_headsign,"","",Wespelaar-Tildonk,de,Wespelaar-Tildonk
+trips,trip_headsign,"","",Gendron-Celles,de,Gendron-Celles
+trips,trip_headsign,"","",Hollerich (LU),de,Hollerich (LU)
+trips,trip_headsign,"","",Bornem,de,Bornem
+trips,trip_headsign,"","",Spa,de,Spa
+trips,trip_headsign,"","",Houraing,de,Houraing
+trips,trip_headsign,"","",Maubeuge (FR),de,Maubeuge (FR)
+trips,trip_headsign,"","",Verviers-Central,de,Verviers-Centraal / Verviers-Central
+trips,trip_headsign,"","",Houyet,de,Houyet
+trips,trip_headsign,"","",Paris Nord (FR),de,Paris Nord (FR)
+trips,trip_headsign,"","",Deinze,de,Deinze
+trips,trip_headsign,"","",Huy,de,Hoei / Huy
+trips,trip_headsign,"","",Braine-l'Alleud,de,Braine-l'Alleud
+trips,trip_headsign,"","",Zottegem,de,Zottegem
+trips,trip_headsign,"","",Iddergem,de,Iddergem
+trips,trip_headsign,"","",Spa-Géronstère,de,Spa-Géronstère
+trips,trip_headsign,"","",Rotterdam Centraal (NL),de,Rotterdam Centraal (NL)
+trips,trip_headsign,"","",Jambes,de,Jambes
+trips,trip_headsign,"","",Saint-Nicolas,de,Sint-Niklaas / Saint-Nicolas
+trips,trip_headsign,"","",Malines,de,Mechelen / Malines
+trips,trip_headsign,"","",Jemeppe-sur-Sambre,de,Jemeppe-sur-Sambre
+trips,trip_headsign,"","",Mol,de,Mol
+trips,trip_headsign,"","",Wetteren,de,Wetteren
+trips,trip_headsign,"","",Jette,de,Jette
+trips,trip_headsign,"","",Braine-le-Comte,de,'s-Gravenbrakel / Braine-le-Comte
+trips,trip_headsign,"","",Rodange (LU),de,Rodange (LU)
+trips,trip_headsign,"","",Jurbise,de,Jurbeke / Jurbise
+trips,trip_headsign,"","",Viane-Moerbeke,de,Viane-Moerbeke
+trips,trip_headsign,"","",Essen,de,Essen
+trips,trip_headsign,"","",Kapellen,de,Kapellen
+trips,trip_headsign,"","",Breda (NL),de,Breda (NL)
+trips,trip_headsign,"","",Denderleeuw,de,Denderleeuw
+trips,trip_headsign,"","",Kiewit,de,Kiewit
+trips,trip_headsign,"","",Neerpelt,de,Neerpelt
+trips,trip_headsign,"","",Aachen Hbf (DE),de,Aachen HBF (DE)
+trips,trip_headsign,"","",Kleinbettingen (LU),de,Kleinbettingen (LU)
+trips,trip_headsign,"","",Statte,de,Statte
+trips,trip_headsign,"","",Noorderkempen (Brecht),de,Noorderkempen (Brecht)
+trips,trip_headsign,"","",Knokke,de,Knokke
+trips,trip_headsign,"","",Fleurus,de,Fleurus
+trips,trip_headsign,"","",Maastricht (NL),de,Maastricht (NL)
+trips,trip_headsign,"","",Köln Hbf (DE),de,Köln Hbf (DE)
+trips,trip_headsign,"","",Wien HBF (AT),de,Wien HBF (AT)
+trips,trip_headsign,"","",Vielsalm,de,Vielsalm
+trips,trip_headsign,"","",Kontich-Lint,de,Kontich-Lint
+trips,trip_headsign,"","",Saint-Trond,de,Sint-Truiden / Saint-Trond
+trips,trip_headsign,"","",Bressoux,de,Bressoux
+trips,trip_headsign,"","",La Louvière-Centre,de,La Louvière-Centre
+trips,trip_headsign,"","",Aalter,de,Aalter
+trips,trip_headsign,"","",Essen-Grens,de,Essen-Grens
+trips,trip_headsign,"","",La Louvière-Sud,de,La Louvière-Zuid / La Louvière-Sud
+trips,trip_headsign,"","",Muizen,de,Muizen
+trips,trip_headsign,"","",Tamines,de,Tamines
+trips,trip_headsign,"","",Landen,de,Landen
+trips,trip_headsign,"","",Aarschot,de,Aarschot
+trips,trip_headsign,"","",De Pinte,de,De Pinte
+trips,trip_headsign,"","",Langdorp,de,Langdorp
+trips,trip_headsign,"","",Puurs,de,Puurs
+trips,trip_headsign,"","",Bruges,de,Brugge / Bruges
+trips,trip_headsign,"","",La Panne,de,De Panne / La Panne
+trips,trip_headsign,"","",Acren,de,Acren
+trips,trip_headsign,"","",Luxembourg (LU),de,Luxemburg (LU)
+trips,trip_headsign,"","",Lede,de,Lede
+trips,trip_headsign,"","",Villers-la-Ville,de,Villers-la-Ville
+trips,trip_headsign,"","",Wildert,de,Wildert
+trips,trip_headsign,"","",Lessines,de,Lessen / Lessines
+trips,trip_headsign,"","",Rhode-Saint-Genèse,de,St.-Gen.-Rode/Rhode-St-Gen.
+trips,trip_headsign,"","",Tamise,de,Temse / Tamise
+trips,trip_headsign,"","",Leuze,de,Leuze
+trips,trip_headsign,"","",Pont-à-Celles,de,Pont-à-Celles
+trips,trip_headsign,"","",Alost,de,Aalst / Alost
+trips,trip_headsign,"","",Libramont,de,Libramont
+trips,trip_headsign,"","",Schaerbeek,de,Schaarbeek / Schaerbeek
+trips,trip_headsign,"","",Gedinne,de,Gedinne
+trips,trip_headsign,"","",Lichtervelde,de,Lichtervelde
+trips,trip_headsign,"","",Brussels Airport-Zaventem,de,Brussels Airport-Zaventem
+trips,trip_headsign,"","",Ans,de,Ans
+trips,trip_headsign,"","",Ostende,de,Oostende / Ostende
+trips,trip_headsign,"","",Melsele,de,Melsele
+trips,trip_headsign,"","",Vilvorde,de,Vilvoorde / Vilvorde
+trips,trip_headsign,"","",Liège-Guillemins,de,Luik-Guillemins / Liège-Guillemins
+trips,trip_headsign,"","",Termonde,de,Dendermonde / Termonde
+trips,trip_headsign,"","",Diepenbeek,de,Diepenbeek
+trips,trip_headsign,"","",Willebroek,de,Willebroek
+trips,trip_headsign,"","",Quiévrain,de,Quiévrain
+trips,trip_headsign,"","",Anvers-Berchem,de,Antwerpen-Berchem / Anvers-Berchem
+trips,trip_headsign,"","",Bruxelles-Central,de,Brus.-/ Brux-Centr.
+trips,trip_headsign,"","",Marloie,de,Marloie
+trips,trip_headsign,"","",Anvers-Central,de,Antwerpen-Centraal / Anvers-Central
+trips,trip_headsign,"","",Liège-Saint-Lambert,de,Luik-Sint-Lambertus / Liège-Saint-Lambert
+trips,trip_headsign,"","",Furnes,de,Veurne / Furnes
+trips,trip_headsign,"","",Ternat,de,Ternat
+trips,trip_headsign,"","",Virton,de,Virton
+trips,trip_headsign,"","",Bruxelles-Luxembourg,de,Brus./Brux.-Luxemb.
+trips,trip_headsign,"","",Philippeville,de,Philippeville
+trips,trip_headsign,"","",Luttre,de,Luttre
+trips,trip_headsign,"","",Anvers-Luchtbal,de,Antwerpen-Luchtbal / Anvers-Luchtbal
+trips,trip_headsign,"","",Diest,de,Diest
+trips,trip_headsign,"","",Lierre,de,Lier / Lierre
+trips,trip_headsign,"","",Wondelgem,de,Wondelgem
+trips,trip_headsign,"","",Moustier,de,Moustier
+trips,trip_headsign,"","",Anvers-Noorderdokken,de,Antwerpen-Noorderdokken / Anvers-Noorderdokken
+trips,trip_headsign,"","",Testelt,de,Testelt
+trips,trip_headsign,"","",Merelbeke,de,Merelbeke
+trips,trip_headsign,"","",Bruxelles-Midi,de,Brus.-Zuid / Brux.-Midi
+trips,trip_headsign,"","",Visé,de,Wezet / Visé
+trips,trip_headsign,"","",Anvers-Sud,de,Antwerpen-Zuid / Anvers-Sud
+trips,trip_headsign,"","",Liers,de,Liers
+trips,trip_headsign,"","",Ettelbruck (LU),de,Ettelbruck (LU)
+trips,trip_headsign,"","",Ruisbroek,de,Ruisbroek
+trips,trip_headsign,"","",Anzegem,de,Anzegem
+trips,trip_headsign,"","",Ypres,de,Ieper / Ypres
+trips,trip_headsign,"","",Tielen,de,Tielen
+trips,trip_headsign,"","",Bruxelles-Nord,de,Brus.-Noord / Brux.-Nord
+trips,trip_headsign,"","",Dinant,de,Dinant
+trips,trip_headsign,"","",Pétange (LU),de,Pétange (LU)
+trips,trip_headsign,"","",Lille Flandres (FR),de,Lille Flandres (FR)
+trips,trip_headsign,"","",Arlon,de,Aarlen / Arlon
+trips,trip_headsign,"","",Walcourt,de,Walcourt
+trips,trip_headsign,"","",Rivage,de,Rivage
+trips,trip_headsign,"","",Gembloux,de,Gembloux
+trips,trip_headsign,"","",Ath,de,Aat / Ath
+trips,trip_headsign,"","",Tielt,de,Tielt
+trips,trip_headsign,"","",Burst,de,Burst
+trips,trip_headsign,"","",Roosendaal (NL),de,Roosendaal (NL)
+trips,trip_headsign,"","",Lokeren,de,Lokeren
+trips,trip_headsign,"","",Yvoir,de,Yvoir
+trips,trip_headsign,"","",Athus,de,Athus
+trips,trip_headsign,"","",Eupen,de,Eupen
+trips,trip_headsign,"","",Waregem,de,Waregem
+trips,trip_headsign,"","",Cambron-Casteau,de,Cambron-Casteau
+trips,trip_headsign,"","",Audenarde,de,Oudenaarde / Audenarde
+trips,trip_headsign,"","",Tilly,de,Tilly
+trips,trip_headsign,"","",Dixmude,de,Diksmuide/Dixmude
+trips,trip_headsign,"","",Londerzeel,de,Londerzeel
+trips,trip_headsign,"","",Mouscron,de,Moeskroen / Mouscron
+trips,trip_headsign,"","",Aulnoye Aymeries (FR),de,Aulnoye Aymeries (FR)
+trips,trip_headsign,"","",Nivelles,de,Nijvel / Nivelles
+trips,trip_headsign,"","",Gand-Dampoort,de,Gent-Dampoort / Gand-Dampoort
+trips,trip_headsign,"","",Zaventem,de,Zaventem
+trips,trip_headsign,"","",Waremme,de,Borgworm / Waremme
+trips,trip_headsign,"","",Charleroi-Central,de,Charleroi-Central
+trips,trip_headsign,"","",Tirlemont,de,Tienen / Tirlemont
+trips,trip_headsign,"","",Louvain,de,Leuven / Louvain
+trips,trip_headsign,"","",Beauraing,de,Beauraing
+trips,trip_headsign,"","",Rhisnes,de,Rhisnes
+trips,trip_headsign,"","",Schellebelle,de,Schellebelle
+trips,trip_headsign,"","",Genk,de,Genk
+trips,trip_headsign,"","",Duffel,de,Duffel
+trips,trip_headsign,"","",Louvain-la-Neuve,de,Louvain-la-Neuve
+trips,trip_headsign,"","",Namur,de,Namen / Namur
+trips,trip_headsign,"","",Opwijk,de,Opwijk
+trips,trip_headsign,"","",Begijnendijk,de,Begijnendijk
+trips,trip_headsign,"","",Charleroi-Ouest,de,Charleroi-West / Charleroi-Ouest
+trips,trip_headsign,"","",Tongres,de,Tongeren / Tongres
+trips,trip_headsign,"","",Poperinge,de,Poperinge
+trips,trip_headsign,"","",Wavre,de,Waver / Wavre
+trips,trip_headsign,"","",Zeebrugge-Dorp,de,Zeebrugge-Dorp
+trips,trip_headsign,"","",Quévy,de,Quévy
+trips,trip_headsign,"","",Ezemaal,de,Ezemaal
+trips,trip_headsign,"","",Bertrix,de,Bertrix
+trips,trip_headsign,"","",Schulen,de,Schulen
+trips,trip_headsign,"","",Geel,de,Geel
+trips,trip_headsign,"","",Châtelet,de,Châtelet
+trips,trip_headsign,"","",Binche,de,Binche
+trips,trip_headsign,"","",Tournai,de,Doornik / Tournai
+trips,trip_headsign,"","",Eeklo,de,Eeklo
+trips,trip_headsign,"","",Menin,de,Menen / Menin
+trips,trip_headsign,"","",Weerde,de,Weerde
+trips,trip_headsign,"","",Bissegem,de,Bissegem
+trips,trip_headsign,"","",Sint-Denijs-Boekel,de,Sint-Denijs-Boekel
+trips,trip_headsign,"","",Zeebrugge-Strand,de,Zeebrugge-Strand
+trips,trip_headsign,"","",Rochefort-Jemelle,de,Rochefort-Jemelle
+trips,trip_headsign,"","",Ciney,de,Ciney
+trips,trip_headsign,"","",Trois-Ponts,de,Trois-Ponts
+trips,trip_headsign,"","",Blankenberge,de,Blankenberge
+trips,trip_headsign,"","",Gand-Saint-Pierre,de,Gent-Sint-Pieters / Gand-Saint-Pierre
+trips,trip_headsign,"","",Flémalle-Haute,de,Flémalle-Haute
+trips,trip_headsign,"","",Blaton,de,Blaton
+trips,trip_headsign,"","",Sint-Gillis,de,Sint-Gillis
+trips,trip_headsign,"","",Welkenraedt,de,Welkenraedt
+trips,trip_headsign,"","",Maubeuge (FR),en,Maubeuge (FR)
+trips,trip_headsign,"","",Philippeville,en,Philippeville
+trips,trip_headsign,"","",Pont-à-Celles,en,Pont-à-Celles
+trips,trip_headsign,"","",Poperinge,en,Poperinge
+trips,trip_headsign,"","",Puurs,en,Puurs
+trips,trip_headsign,"","",Quévy,en,Quévy
+trips,trip_headsign,"","",Quiévrain,en,Quiévrain
+trips,trip_headsign,"","",Renaix,en,Renaix / Ronse
+trips,trip_headsign,"","",Rhisnes,en,Rhisnes
+trips,trip_headsign,"","",Rhode-Saint-Genèse,en,Rhode-St-Gen./St.-Gen.-Rode
+trips,trip_headsign,"","",Rivage,en,Rivage
+trips,trip_headsign,"","",Rochefort-Jemelle,en,Rochefort-Jemelle
+trips,trip_headsign,"","",Rodange (LU),en,Rodange (LU)
+trips,trip_headsign,"","",Roosendaal (NL),en,Roosendaal (NL)
+trips,trip_headsign,"","",Rotterdam Centraal (NL),en,Rotterdam Centraal (NL)
+trips,trip_headsign,"","",Roulers,en,Roeselare / Roulers
+trips,trip_headsign,"","",Ruisbroek,en,Ruisbroek
+trips,trip_headsign,"","",Ruisbroek-Sauvegarde,en,Ruisbroek-Sauvegarde
+trips,trip_headsign,"","",Saint-Ghislain,en,Saint-Ghislain
+trips,trip_headsign,"","",Saint-Nicolas,en,Saint-Nicolas / Sint-Niklaas
+trips,trip_headsign,"","",Saint-Trond,en,Saint-Trond / Sint-Truiden
+trips,trip_headsign,"","",Schaerbeek,en,Schaerbeek / Schaarbeek
+trips,trip_headsign,"","",Schellebelle,en,Schellebelle
+trips,trip_headsign,"","",Schulen,en,Schulen
+trips,trip_headsign,"","",Sint-Denijs-Boekel,en,Sint-Denijs-Boekel
+trips,trip_headsign,"","",Sint-Gillis,en,Sint-Gillis
+trips,trip_headsign,"","",Sint-Joris-Weert,en,Sint-Joris-Weert
+trips,trip_headsign,"","",Soignies,en,Soignies / Zinnik
+trips,trip_headsign,"","",Spa,en,Spa
+trips,trip_headsign,"","",Spa-Géronstère,en,Spa-Géronstère
+trips,trip_headsign,"","",Statte,en,Statte
+trips,trip_headsign,"","",Tamines,en,Tamines
+trips,trip_headsign,"","",Tamise,en,Tamise / Temse
+trips,trip_headsign,"","",Termonde,en,Termonde / Dendermonde
+trips,trip_headsign,"","",Ternat,en,Ternat
+trips,trip_headsign,"","",Testelt,en,Testelt
+trips,trip_headsign,"","",Tielen,en,Tielen
+trips,trip_headsign,"","",Tielt,en,Tielt
+trips,trip_headsign,"","",Tilly,en,Tilly
+trips,trip_headsign,"","",Tirlemont,en,Tirlemont / Tienen
+trips,trip_headsign,"","",Tongres,en,Tongres / Tongeren
+trips,trip_headsign,"","",Tournai,en,Tournai / Doornik
+trips,trip_headsign,"","",Trois-Ponts,en,Trois-Ponts
+trips,trip_headsign,"","",Troisvierges (LU),en,Troisvierges (LU)
+trips,trip_headsign,"","",Turnhout,en,Turnhout
+trips,trip_headsign,"","",Verviers-Central,en,Verviers-Central / Verviers-Centraal
+trips,trip_headsign,"","",Viane-Moerbeke,en,Viane-Moerbeke
+trips,trip_headsign,"","",Vielsalm,en,Vielsalm
+trips,trip_headsign,"","",Villers-la-Ville,en,Villers-la-Ville
+trips,trip_headsign,"","",Vilvorde,en,Vilvorde / Vilvoorde
+trips,trip_headsign,"","",Virton,en,Virton
+trips,trip_headsign,"","",Visé,en,Visé / Wezet
+trips,trip_headsign,"","",Walcourt,en,Walcourt
+trips,trip_headsign,"","",Waregem,en,Waregem
+trips,trip_headsign,"","",Waremme,en,Waremme / Borgworm
+trips,trip_headsign,"","",Wavre,en,Wavre / Waver
+trips,trip_headsign,"","",Weerde,en,Weerde
+trips,trip_headsign,"","",Welkenraedt,en,Welkenraedt
+trips,trip_headsign,"","",Welle,en,Welle
+trips,trip_headsign,"","",Wespelaar-Tildonk,en,Wespelaar-Tildonk
+trips,trip_headsign,"","",Wetteren,en,Wetteren
+trips,trip_headsign,"","",Wien HBF (AT),en,Wien HBF (AT)
+trips,trip_headsign,"","",Wildert,en,Wildert
+trips,trip_headsign,"","",Willebroek,en,Willebroek
+trips,trip_headsign,"","",Wondelgem,en,Wondelgem
+trips,trip_headsign,"","",Ypres,en,Ypres / Ieper
+trips,trip_headsign,"","",Yvoir,en,Yvoir
+trips,trip_headsign,"","",Zaventem,en,Zaventem
+trips,trip_headsign,"","",Zeebrugge-Dorp,en,Zeebrugge-Dorp
+trips,trip_headsign,"","",Zeebrugge-Strand,en,Zeebrugge-Strand
+trips,trip_headsign,"","",Zele,en,Zele
+trips,trip_headsign,"","",Zonhoven,en,Zonhoven
+trips,trip_headsign,"","",Zottegem,en,Zottegem
+trips,trip_headsign,"","",Aachen Hbf (DE),en,Aachen HBF (DE)
+trips,trip_headsign,"","",Aalter,en,Aalter
+trips,trip_headsign,"","",Aarschot,en,Aarschot
+trips,trip_headsign,"","",Acren,en,Acren
+trips,trip_headsign,"","",Alost,en,Alost / Aalst
+trips,trip_headsign,"","",Ans,en,Ans
+trips,trip_headsign,"","",Anvers-Berchem,en,Anvers-Berchem / Antwerpen-Berchem
+trips,trip_headsign,"","",Anvers-Central,en,Anvers-Central / Antwerpen-Centraal
+trips,trip_headsign,"","",Anvers-Luchtbal,en,Anvers-Luchtbal / Antwerpen-Luchtbal
+trips,trip_headsign,"","",Anvers-Noorderdokken,en,Anvers-Noorderdokken / Antwerpen-Noorderdokken
+trips,trip_headsign,"","",Anvers-Sud,en,Anvers-Sud / Antwerpen-Zuid
+trips,trip_headsign,"","",Anzegem,en,Anzegem
+trips,trip_headsign,"","",Arlon,en,Arlon / Aarlen
+trips,trip_headsign,"","",Ath,en,Ath / Aat
+trips,trip_headsign,"","",Athus,en,Athus
+trips,trip_headsign,"","",Audenarde,en,Audenarde / Oudenaarde
+trips,trip_headsign,"","",Aulnoye Aymeries (FR),en,Aulnoye Aymeries (FR)
+trips,trip_headsign,"","",Beauraing,en,Beauraing
+trips,trip_headsign,"","",Begijnendijk,en,Begijnendijk
+trips,trip_headsign,"","",Bertrix,en,Bertrix
+trips,trip_headsign,"","",Binche,en,Binche
+trips,trip_headsign,"","",Bissegem,en,Bissegem
+trips,trip_headsign,"","",Blankenberge,en,Blankenberge
+trips,trip_headsign,"","",Blaton,en,Blaton
+trips,trip_headsign,"","",Boechout,en,Boechout
+trips,trip_headsign,"","",Bomal,en,Bomal
+trips,trip_headsign,"","",Boom,en,Boom
+trips,trip_headsign,"","",Boondael,en,Boondael/Boondaal
+trips,trip_headsign,"","",Bornem,en,Bornem
+trips,trip_headsign,"","",Braine-l'Alleud,en,Braine-l'Alleud
+trips,trip_headsign,"","",Braine-le-Comte,en,Braine-le-Comte / 's-Gravenbrakel
+trips,trip_headsign,"","",Breda (NL),en,Breda (NL)
+trips,trip_headsign,"","",Bressoux,en,Bressoux
+trips,trip_headsign,"","",Bruges,en,Bruges / Brugge
+trips,trip_headsign,"","",Brussels Airport-Zaventem,en,Brussels Airport-Zaventem
+trips,trip_headsign,"","",Bruxelles-Central,en,Brux.-/ Brus-Centr.
+trips,trip_headsign,"","",Bruxelles-Luxembourg,en,Brux./Brus.-Luxemb.
+trips,trip_headsign,"","",Bruxelles-Midi,en,Brux.-Midi/Brus.-Zuid
+trips,trip_headsign,"","",Bruxelles-Nord,en,Brux.-Nord/Brus.-Noord
+trips,trip_headsign,"","",Burst,en,Burst
+trips,trip_headsign,"","",Cambron-Casteau,en,Cambron-Casteau
+trips,trip_headsign,"","",Charleroi-Central,en,Charleroi-Central
+trips,trip_headsign,"","",Charleroi-Ouest,en,Charleroi-Ouest / Charleroi-West
+trips,trip_headsign,"","",Châtelet,en,Châtelet
+trips,trip_headsign,"","",Hal,en,Hal / Halle
+trips,trip_headsign,"","",Hamont,en,Hamont
+trips,trip_headsign,"","",Hasselt,en,Hasselt
+trips,trip_headsign,"","",Heerlen,en,Heerlen
+trips,trip_headsign,"","",Heist-op-den-Berg,en,Heist-op-den-Berg
+trips,trip_headsign,"","",Herentals,en,Herentals
+trips,trip_headsign,"","",Herent,en,Herent
+trips,trip_headsign,"","",Herstal,en,Herstal
+trips,trip_headsign,"","",Hillegem,en,Hillegem
+trips,trip_headsign,"","",Hoboken-Polder,en,Hoboken-Polder
+trips,trip_headsign,"","",Holleken,en,Holleken
+trips,trip_headsign,"","",Hollerich (LU),en,Hollerich (LU)
+trips,trip_headsign,"","",Houraing,en,Houraing
+trips,trip_headsign,"","",Houyet,en,Houyet
+trips,trip_headsign,"","",Huy,en,Huy / Hoei
+trips,trip_headsign,"","",Iddergem,en,Iddergem
+trips,trip_headsign,"","",Jambes,en,Jambes
+trips,trip_headsign,"","",Jemeppe-sur-Sambre,en,Jemeppe-sur-Sambre
+trips,trip_headsign,"","",Jette,en,Jette
+trips,trip_headsign,"","",Jurbise,en,Jurbise / Jurbeke
+trips,trip_headsign,"","",Kapellen,en,Kapellen
+trips,trip_headsign,"","",Kiewit,en,Kiewit
+trips,trip_headsign,"","",Kleinbettingen (LU),en,Kleinbettingen (LU)
+trips,trip_headsign,"","",Knokke,en,Knokke
+trips,trip_headsign,"","",Köln Hbf (DE),en,Köln Hbf (DE)
+trips,trip_headsign,"","",Kontich-Lint,en,Kontich-Lint
+trips,trip_headsign,"","",La Louvière-Centre,en,La Louvière-Centre
+trips,trip_headsign,"","",La Louvière-Sud,en,La Louvière-Sud / La Louvière-Zuid
+trips,trip_headsign,"","",Kiewit,nl,Kiewit
+trips,trip_headsign,"","",Saint-Ghislain,nl,Saint-Ghislain
+trips,trip_headsign,"","",Kapellen,nl,Kapellen
+trips,trip_headsign,"","",Jurbise,nl,Jurbeke
+trips,trip_headsign,"","",Maastricht (NL),nl,Maastricht (NL)
+trips,trip_headsign,"","",Jette,nl,Jette
+trips,trip_headsign,"","",Jemeppe-sur-Sambre,nl,Jemeppe-sur-Sambre
+trips,trip_headsign,"","",Jambes,nl,Jambes
+trips,trip_headsign,"","",Iddergem,nl,Iddergem
+trips,trip_headsign,"","",Huy,nl,Hoei
+trips,trip_headsign,"","",Ruisbroek-Sauvegarde,nl,Ruisbroek-Sauvegarde
+trips,trip_headsign,"","",Houyet,nl,Houyet
+trips,trip_headsign,"","",Houraing,nl,Houraing
+trips,trip_headsign,"","",Malines,nl,Mechelen
+trips,trip_headsign,"","",Hollerich (LU),nl,Hollerich (LU)
+trips,trip_headsign,"","",Holleken,nl,Holleken
+trips,trip_headsign,"","",Hoboken-Polder,nl,Hoboken-Polder
+trips,trip_headsign,"","",Hillegem,nl,Hillegem
+trips,trip_headsign,"","",Herstal,nl,Herstal
+trips,trip_headsign,"","",Ruisbroek,nl,Ruisbroek
+trips,trip_headsign,"","",Herent,nl,Herent
+trips,trip_headsign,"","",Herentals,nl,Herentals
+trips,trip_headsign,"","",Manage,nl,Manage
+trips,trip_headsign,"","",Heist-op-den-Berg,nl,Heist-op-den-Berg
+trips,trip_headsign,"","",Heerlen,nl,Heerlen
+trips,trip_headsign,"","",Hasselt,nl,Hasselt
+trips,trip_headsign,"","",Hamont,nl,Hamont
+trips,trip_headsign,"","",Hal,nl,Halle
+trips,trip_headsign,"","",Philippeville,nl,Philippeville
+trips,trip_headsign,"","",Grammont,nl,Geraardsbergen
+trips,trip_headsign,"","",Gouvy,nl,Gouvy
+trips,trip_headsign,"","",Marbehan,nl,Marbehan
+trips,trip_headsign,"","",Gentbrugge,nl,Gentbrugge
+trips,trip_headsign,"","",Genk,nl,Genk
+trips,trip_headsign,"","",Gendron-Celles,nl,Gendron-Celles
+trips,trip_headsign,"","",Gembloux,nl,Gembloux
+trips,trip_headsign,"","",Geel,nl,Geel
+trips,trip_headsign,"","",Roulers,nl,Roeselare
+trips,trip_headsign,"","",Gedinne,nl,Gedinne
+trips,trip_headsign,"","",Gand-Saint-Pierre,nl,Gent-Sint-Pieters
+trips,trip_headsign,"","",Mariembourg,nl,Mariembourg
+trips,trip_headsign,"","",Gand-Dampoort,nl,Gent-Dampoort
+trips,trip_headsign,"","",Furnes,nl,Veurne
+trips,trip_headsign,"","",Fleurus,nl,Fleurus
+trips,trip_headsign,"","",Flémalle-Haute,nl,Flémalle-Haute
+trips,trip_headsign,"","",Ezemaal,nl,Ezemaal
+trips,trip_headsign,"","",Rotterdam Centraal (NL),nl,Rotterdam Centraal (NL)
+trips,trip_headsign,"","",Eupen,nl,Eupen
+trips,trip_headsign,"","",Ettelbruck (LU),nl,Ettelbruck (LU)
+trips,trip_headsign,"","",Marloie,nl,Marloie
+trips,trip_headsign,"","",Essen,nl,Essen
+trips,trip_headsign,"","",Essen-Grens,nl,Essen-Grens
+trips,trip_headsign,"","",Erquelinnes,nl,Erquelinnes
+trips,trip_headsign,"","",Enghien,nl,Edingen
+trips,trip_headsign,"","",Eeklo,nl,Eeklo
+trips,trip_headsign,"","",Duffel,nl,Duffel
+trips,trip_headsign,"","",Dixmude,nl,Diksmuide
+trips,trip_headsign,"","",Landen,en,Landen
+trips,trip_headsign,"","",Langdorp,en,Langdorp
+trips,trip_headsign,"","",La Panne,en,La Panne / De Panne
+trips,trip_headsign,"","",Lede,en,Lede
+trips,trip_headsign,"","",Lessines,en,Lessines / Lessen
+trips,trip_headsign,"","",Leuze,en,Leuze
+trips,trip_headsign,"","",Libramont,en,Libramont
+trips,trip_headsign,"","",Lichtervelde,en,Lichtervelde
+trips,trip_headsign,"","",Liège-Guillemins,en,Liège-Guillemins / Luik-Guillemins
+trips,trip_headsign,"","",Liège-Saint-Lambert,en,Liège-Saint-Lambert / Luik-Sint-Lambertus
+trips,trip_headsign,"","",Lierre,en,Lierre / Lier
+trips,trip_headsign,"","",Liers,en,Liers
+trips,trip_headsign,"","",Lille Flandres (FR),en,Lille Flandres (FR)
+trips,trip_headsign,"","",Lokeren,en,Lokeren
+trips,trip_headsign,"","",Londerzeel,en,Londerzeel
+trips,trip_headsign,"","",Louvain,en,Louvain / Leuven
+trips,trip_headsign,"","",Louvain-la-Neuve,en,Louvain-la-Neuve
+trips,trip_headsign,"","",Luttre,en,Luttre
+trips,trip_headsign,"","",Luxembourg (LU),en,Luxembourg (LU)
+trips,trip_headsign,"","",Maastricht (NL),en,Maastricht (NL)
+trips,trip_headsign,"","",Malines,en,Malines / Mechelen
+trips,trip_headsign,"","",Manage,en,Manage
+trips,trip_headsign,"","",Marbehan,en,Marbehan
+trips,trip_headsign,"","",Mariembourg,en,Mariembourg
+trips,trip_headsign,"","",Marloie,en,Marloie
+trips,trip_headsign,"","",Melsele,en,Melsele
+trips,trip_headsign,"","",Menin,en,Menin / Menen
+trips,trip_headsign,"","",Merelbeke,en,Merelbeke
+trips,trip_headsign,"","",Mol,en,Mol
+trips,trip_headsign,"","",Mons,en,Mons / Bergen
+trips,trip_headsign,"","",Mouscron,en,Mouscron / Moeskroen
+trips,trip_headsign,"","",Moustier,en,Moustier
+trips,trip_headsign,"","",Muizen,en,Muizen
+trips,trip_headsign,"","",Namur,en,Namur / Namen
+trips,trip_headsign,"","",Neerpelt,en,Neerpelt
+trips,trip_headsign,"","",Nivelles,en,Nivelles / Nijvel
+trips,trip_headsign,"","",Noorderkempen (Brecht),en,Noorderkempen (Brecht)
+trips,trip_headsign,"","",Opwijk,en,Opwijk
+trips,trip_headsign,"","",Ostende,en,Ostende / Oostende
+trips,trip_headsign,"","",Ottignies,en,Ottignies
+trips,trip_headsign,"","",Paris Nord (FR),en,Paris Nord (FR)
+trips,trip_headsign,"","",Pepinster,en,Pepinster
+trips,trip_headsign,"","",Pétange (LU),en,Pétange (LU)
+trips,trip_headsign,"","",Kleinbettingen (LU),nl,Kleinbettingen (LU)
+trips,trip_headsign,"","",Rivage,nl,Rivage
+trips,trip_headsign,"","",Bertrix,nl,Bertrix
+trips,trip_headsign,"","",Begijnendijk,nl,Begijnendijk
+trips,trip_headsign,"","",Mons,nl,Bergen
+trips,trip_headsign,"","",Beauraing,nl,Beauraing
+trips,trip_headsign,"","",Aulnoye Aymeries (FR),nl,Aulnoye Aymeries (FR)
+trips,trip_headsign,"","",Audenarde,nl,Oudenaarde
+trips,trip_headsign,"","",Athus,nl,Athus
+trips,trip_headsign,"","",Ath,nl,Aat
+trips,trip_headsign,"","",Rhode-Saint-Genèse,nl,Sint-Genesius-Rode
+trips,trip_headsign,"","",Arlon,nl,Aarlen
+trips,trip_headsign,"","",Anzegem,nl,Anzegem
+trips,trip_headsign,"","",Mouscron,nl,Moeskroen
+trips,trip_headsign,"","",Anvers-Sud,nl,Antwerpen-Zuid
+trips,trip_headsign,"","",Anvers-Noorderdokken,nl,Antwerpen-Noorderdokken
+trips,trip_headsign,"","",Anvers-Luchtbal,nl,Antwerpen-Luchtbal
+trips,trip_headsign,"","",Anvers-Central,nl,Antwerpen-Centraal
+trips,trip_headsign,"","",Anvers-Berchem,nl,Antwerpen-Berchem
+trips,trip_headsign,"","",Pétange (LU),nl,Pétange (LU)
+trips,trip_headsign,"","",Ans,nl,Ans
+trips,trip_headsign,"","",Alost,nl,Aalst
+trips,trip_headsign,"","",Moustier,nl,Moustier
+trips,trip_headsign,"","",Acren,nl,Acren
+trips,trip_headsign,"","",Aarschot,nl,Aarschot
+trips,trip_headsign,"","",Aalter,nl,Aalter
+trips,trip_headsign,"","",Aachen Hbf (DE),nl,Aachen Hbf (DE)
+trips,trip_headsign,"","",Rhisnes,nl,Rhisnes
+trips,trip_headsign,"","",Zottegem,nl,Zottegem
+trips,trip_headsign,"","",Zonhoven,nl,Zonhoven
+trips,trip_headsign,"","",Zele,nl,Zele
+trips,trip_headsign,"","",Muizen,nl,Muizen
+trips,trip_headsign,"","",Zeebrugge-Strand,nl,Zeebrugge-Strand
+trips,trip_headsign,"","",Zeebrugge-Dorp,nl,Zeebrugge-Dorp
+trips,trip_headsign,"","",Zaventem,nl,Zaventem
+trips,trip_headsign,"","",Yvoir,nl,Yvoir
+trips,trip_headsign,"","",Ypres,nl,Ieper
+trips,trip_headsign,"","",Renaix,nl,Ronse
+trips,trip_headsign,"","",Wondelgem,nl,Wondelgem
+trips,trip_headsign,"","",Willebroek,nl,Willebroek
+trips,trip_headsign,"","",Namur,nl,Namen
+trips,trip_headsign,"","",Wildert,nl,Wildert
+trips,trip_headsign,"","",Wien HBF (AT),nl,Wien HBF (AT)
+trips,trip_headsign,"","",Wetteren,nl,Wetteren
+trips,trip_headsign,"","",Wespelaar-Tildonk,nl,Wespelaar-Tildonk
+trips,trip_headsign,"","",Ciney,en,Ciney
+trips,trip_headsign,"","",Courrière,en,Courrière
+trips,trip_headsign,"","",Courtrai,en,Courtrai / Kortrijk
+trips,trip_headsign,"","",Couvin,en,Couvin
+trips,trip_headsign,"","",Deinze,en,Deinze
+trips,trip_headsign,"","",Denderleeuw,en,Denderleeuw
+trips,trip_headsign,"","",De Pinte,en,De Pinte
+trips,trip_headsign,"","",Diepenbeek,en,Diepenbeek
+trips,trip_headsign,"","",Diest,en,Diest
+trips,trip_headsign,"","",Dinant,en,Dinant
+trips,trip_headsign,"","",Dixmude,en,Dixmude/Diksmuide
+trips,trip_headsign,"","",Duffel,en,Duffel
+trips,trip_headsign,"","",Eeklo,en,Eeklo
+trips,trip_headsign,"","",Enghien,en,Enghien / Edingen
+trips,trip_headsign,"","",Erquelinnes,en,Erquelinnes
+trips,trip_headsign,"","",Essen,en,Essen
+trips,trip_headsign,"","",Essen-Grens,en,Essen-Grens
+trips,trip_headsign,"","",Ettelbruck (LU),en,Ettelbruck (LU)
+trips,trip_headsign,"","",Eupen,en,Eupen
+trips,trip_headsign,"","",Ezemaal,en,Ezemaal
+trips,trip_headsign,"","",Flémalle-Haute,en,Flémalle-Haute
+trips,trip_headsign,"","",Fleurus,en,Fleurus
+trips,trip_headsign,"","",Furnes,en,Furnes / Veurne
+trips,trip_headsign,"","",Gand-Dampoort,en,Gand-Dampoort / Gent-Dampoort
+trips,trip_headsign,"","",Gand-Saint-Pierre,en,Gand-Saint-Pierre / Gent-Sint-Pieters
+trips,trip_headsign,"","",Gedinne,en,Gedinne
+trips,trip_headsign,"","",Geel,en,Geel
+trips,trip_headsign,"","",Gembloux,en,Gembloux
+trips,trip_headsign,"","",Gendron-Celles,en,Gendron-Celles
+trips,trip_headsign,"","",Genk,en,Genk
+trips,trip_headsign,"","",Gentbrugge,en,Gentbrugge
+trips,trip_headsign,"","",Gouvy,en,Gouvy
+trips,trip_headsign,"","",Grammont,en,Grammont / Geraardsbergen
+trips,trip_headsign,"","",Dinant,nl,Dinant
+trips,trip_headsign,"","",Maubeuge (FR),nl,Maubeuge (FR)
+trips,trip_headsign,"","",Diest,nl,Diest
+trips,trip_headsign,"","",Diepenbeek,nl,Diepenbeek
+trips,trip_headsign,"","",De Pinte,nl,De Pinte
+trips,trip_headsign,"","",Denderleeuw,nl,Denderleeuw
+trips,trip_headsign,"","",Deinze,nl,Deinze
+trips,trip_headsign,"","",Paris Nord (FR),nl,Paris Nord (FR)
+trips,trip_headsign,"","",Couvin,nl,Couvin
+trips,trip_headsign,"","",Courtrai,nl,Kortrijk
+trips,trip_headsign,"","",Melsele,nl,Melsele
+trips,trip_headsign,"","",Courrière,nl,Courrière
+trips,trip_headsign,"","",Ciney,nl,Ciney
+trips,trip_headsign,"","",Châtelet,nl,Châtelet
+trips,trip_headsign,"","",Charleroi-Ouest,nl,Charleroi-West
+trips,trip_headsign,"","",Charleroi-Central,nl,Charleroi-Centraal
+trips,trip_headsign,"","",Roosendaal (NL),nl,Roosendaal (NL)
+trips,trip_headsign,"","",Cambron-Casteau,nl,Cambron-Casteau
+trips,trip_headsign,"","",Burst,nl,Burst
+trips,trip_headsign,"","",Menin,nl,Menen
+trips,trip_headsign,"","",Bruxelles-Nord,nl,Brussel-Noord
+trips,trip_headsign,"","",Bruxelles-Midi,nl,Brussel-Zuid
+trips,trip_headsign,"","",Bruxelles-Luxembourg,nl,Brussel-Luxemburg
+trips,trip_headsign,"","",Bruxelles-Central,nl,Brussel-Centraal
+trips,trip_headsign,"","",Brussels Airport-Zaventem,nl,Brussels Airport-Zaventem
+trips,trip_headsign,"","",Rodange (LU),nl,Rodange (LU)
+trips,trip_headsign,"","",Bruges,nl,Brugge
+trips,trip_headsign,"","",Bressoux,nl,Bressoux
+trips,trip_headsign,"","",Merelbeke,nl,Merelbeke
+trips,trip_headsign,"","",Breda (NL),nl,Breda (NL)
+trips,trip_headsign,"","",Braine-le-Comte,nl,'s-Gravenbrakel
+trips,trip_headsign,"","",Braine-l'Alleud,nl,Eigenbrakel
+trips,trip_headsign,"","",Bornem,nl,Bornem
+trips,trip_headsign,"","",Boondael,nl,Boondaal
+trips,trip_headsign,"","",Rochefort-Jemelle,nl,Rochefort-Jemelle
+trips,trip_headsign,"","",Boom,nl,Boom
+trips,trip_headsign,"","",Bomal,nl,Bomal
+trips,trip_headsign,"","",Mol,nl,Mol
+trips,trip_headsign,"","",Boechout,nl,Boechout
+trips,trip_headsign,"","",Blaton,nl,Blaton
+trips,trip_headsign,"","",Blankenberge,nl,Blankenberge
+trips,trip_headsign,"","",Bissegem,nl,Bissegem
+trips,trip_headsign,"","",Binche,nl,Binche
+trips,trip_headsign,"","",Welle,nl,Welle
+trips,trip_headsign,"","",Pepinster,nl,Pepinster
+trips,trip_headsign,"","",Welkenraedt,nl,Welkenraedt
+trips,trip_headsign,"","",Weerde,nl,Weerde
+trips,trip_headsign,"","",Neerpelt,nl,Neerpelt
+trips,trip_headsign,"","",Wavre,nl,Waver
+trips,trip_headsign,"","",Waremme,nl,Borgworm
+trips,trip_headsign,"","",Waregem,nl,Waregem
+trips,trip_headsign,"","",Walcourt,nl,Walcourt
+trips,trip_headsign,"","",Visé,nl,Wezet
+trips,trip_headsign,"","",Quiévrain,nl,Quiévrain
+trips,trip_headsign,"","",Virton,nl,Virton
+trips,trip_headsign,"","",Vilvorde,nl,Vilvoorde
+trips,trip_headsign,"","",Nivelles,nl,Nijvel
+trips,trip_headsign,"","",Villers-la-Ville,nl,Villers-la-Ville
+trips,trip_headsign,"","",Vielsalm,nl,Vielsalm
+trips,trip_headsign,"","",Viane-Moerbeke,nl,Viane-Moerbeke
+trips,trip_headsign,"","",Verviers-Central,nl,Verviers-Centraal
+trips,trip_headsign,"","",Turnhout,nl,Turnhout
+trips,trip_headsign,"","",Quévy,nl,Quévy
+trips,trip_headsign,"","",Troisvierges (LU),nl,Troisvierges (LU)
+trips,trip_headsign,"","",Trois-Ponts,nl,Trois-Ponts
+trips,trip_headsign,"","",Noorderkempen (Brecht),nl,Noorderkempen (Brecht)
+trips,trip_headsign,"","",Tournai,nl,Doornik
+trips,trip_headsign,"","",Tongres,nl,Tongeren
+trips,trip_headsign,"","",Tirlemont,nl,Tienen
+trips,trip_headsign,"","",Tilly,nl,Tilly
+trips,trip_headsign,"","",Tielt,nl,Tielt
+trips,trip_headsign,"","",Puurs,nl,Puurs
+trips,trip_headsign,"","",Tielen,nl,Tielen
+trips,trip_headsign,"","",Testelt,nl,Testelt
+trips,trip_headsign,"","",Opwijk,nl,Opwijk
+trips,trip_headsign,"","",Ternat,nl,Ternat
+trips,trip_headsign,"","",Termonde,nl,Dendermonde
+trips,trip_headsign,"","",Tamise,nl,Temse
+trips,trip_headsign,"","",Tamines,nl,Tamines
+trips,trip_headsign,"","",Statte,nl,Statte
+trips,trip_headsign,"","",Poperinge,nl,Poperinge
+trips,trip_headsign,"","",Spa,nl,Spa
+trips,trip_headsign,"","",Spa-Géronstère,nl,Spa-Géronstère
+trips,trip_headsign,"","",Ostende,nl,Oostende
+trips,trip_headsign,"","",Soignies,nl,Zinnik
+trips,trip_headsign,"","",Sint-Joris-Weert,nl,Sint-Joris-Weert
+trips,trip_headsign,"","",Sint-Gillis,nl,Sint-Gillis
+trips,trip_headsign,"","",Sint-Denijs-Boekel,nl,Sint-Denijs-Boekel
+trips,trip_headsign,"","",Schulen,nl,Schulen
+trips,trip_headsign,"","",Pont-à-Celles,nl,Pont-à-Celles
+trips,trip_headsign,"","",Schellebelle,nl,Schellebelle
+trips,trip_headsign,"","",Schaerbeek,nl,Schaarbeek
+trips,trip_headsign,"","",Ottignies,nl,Ottignies
+trips,trip_headsign,"","",Londerzeel,nl,Londerzeel
+trips,trip_headsign,"","",Louvain-la-Neuve,nl,Louvain-la-Neuve
+trips,trip_headsign,"","",Lokeren,nl,Lokeren
+trips,trip_headsign,"","",Lille Flandres (FR),nl,Lille Flandres (FR)
+trips,trip_headsign,"","",Louvain,nl,Leuven
+trips,trip_headsign,"","",Liers,nl,Liers
+trips,trip_headsign,"","",Lierre,nl,Lier
+trips,trip_headsign,"","",Liège-Saint-Lambert,nl,Luik-Sint-Lambertus
+trips,trip_headsign,"","",Liège-Guillemins,nl,Luik-Guillemins
+trips,trip_headsign,"","",Lichtervelde,nl,Lichtervelde
+trips,trip_headsign,"","",Saint-Trond,nl,Sint-Truiden
+trips,trip_headsign,"","",Libramont,nl,Libramont
+trips,trip_headsign,"","",Leuze,nl,Leuze
+trips,trip_headsign,"","",Luttre,nl,Luttre
+trips,trip_headsign,"","",Lessines,nl,Lessen
+trips,trip_headsign,"","",Lede,nl,Lede
+trips,trip_headsign,"","",La Panne,nl,De Panne
+trips,trip_headsign,"","",Langdorp,nl,Langdorp
+trips,trip_headsign,"","",Landen,nl,Landen
+trips,trip_headsign,"","",Saint-Nicolas,nl,Sint-Niklaas
+trips,trip_headsign,"","",La Louvière-Sud,nl,La Louvière-Zuid
+trips,trip_headsign,"","",La Louvière-Centre,nl,La Louvière-Centrum
+trips,trip_headsign,"","",Luxembourg (LU),nl,Luxemburg (LU)
+trips,trip_headsign,"","",Kontich-Lint,nl,Kontich-Lint
+trips,trip_headsign,"","",Köln Hbf (DE),nl,Köln Hbf (DE)
+trips,trip_headsign,"","",Knokke,nl,Knokke

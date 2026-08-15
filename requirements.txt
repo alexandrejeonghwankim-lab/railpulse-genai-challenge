@@ -1,0 +1,5 @@
+# RailPulse MVP runtime (Python 3.13)
+chainlit==2.11.1
+groq==1.6.0
+pandas==3.0.5
+python-dotenv==1.2.2
